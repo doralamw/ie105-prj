@@ -1,0 +1,26 @@
+version: "3"
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data    # <-- mount data volume cho backend
+    networks:
+      - malware-net
+
+  sandbox:
+    build:
+      context: ./apk-sandbox
+      dockerfile: Dockerfile
+    privileged: true
+    volumes:
+      - ./data:/data        # <-- mount data volume cho sandbox
+    networks:
+      - malware-net
+
+networks:
+  malware-net:
+    driver: bridge

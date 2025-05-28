@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+joblib
+numpy
+pandas
+androguard
+scikit-learn
+docker       
+python-multipart

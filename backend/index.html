@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>APK Malware Detector</title>
+  <style>
+    body { display:flex; align-items:center; justify-content:center;
+           height:100vh; margin:0; background:#f0f2f5; font-family:sans-serif; }
+    .box { background:white; padding:2rem; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); width:320px; text-align:center; }
+    input[type=file], button { width:100%; padding:0.5rem; margin:0.5rem 0; }
+    button { background:#007bff; color:white; border:none; cursor:pointer; }
+    button:disabled { background:#a0cfff; cursor:not-allowed; }
+    .msg { margin-top:1rem; padding:0.75rem; border-radius:4px; display:none; }
+    .success { background:#e6ffed; color:#2f8f46; }
+    .error   { background:#ffe6e6; color:#d93025; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>APK Malware Detector</h1>
+    <form id="frm">
+      <input type="file" id="f" accept=".apk" required>
+      <button id="btn">Kiểm tra</button>
+    </form>
+    <div id="msg" class="msg"></div>
+  </div>
+
+  <script>
+    // 1. Định nghĩa map từ số nhãn sang tên lớp
+    const labelMap = {
+      1: 'Adware',
+      2: 'Banking',
+      3: 'SMS_MALWARE',
+      4: 'Riskware',
+      5: 'Benign'
+    };
+
+    const frm = document.getElementById('frm'),
+          f   = document.getElementById('f'),
+          btn = document.getElementById('btn'),
+          msg = document.getElementById('msg');
+
+    frm.addEventListener('submit', async e => {
+      e.preventDefault();
+      if (!f.files.length) return;
+
+      btn.disabled = true;
+      btn.textContent = 'Đang xử lý…';
+      msg.style.display = 'none';
+
+      const data = new FormData();
+      data.append('apk', f.files[0]);
+
+      try {
+        const res = await fetch('http://localhost:8000/predict/', {
+          method: 'POST',
+          body: data
+        });
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(text || 'Lỗi server');
+        }
+        const json = await res.json();
+        // 2. Lấy số nhãn và chuyển thành tên lớp
+        const pred = json.prediction;
+        const label = labelMap[pred] || `Unknown (${pred})`;
+
+        msg.textContent = `Kết quả: ${label}`;
+        msg.className = 'msg success';
+      } catch (err) {
+        msg.textContent = `Lỗi: ${err.message}`;
+        msg.className = 'msg error';
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Kiểm tra';
+        msg.style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>
