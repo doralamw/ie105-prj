@@ -7,17 +7,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./data:/app/data    # <-- mount data volume cho backend
-    networks:
-      - malware-net
-
-  sandbox:
-    build:
-      context: ./apk-sandbox
-      dockerfile: Dockerfile
-    privileged: true
-    volumes:
-      - ./data:/data        # <-- mount data volume cho sandbox
+      - ./data:/app/data      # mount folder data vào container (nếu cần)
     networks:
       - malware-net
 
