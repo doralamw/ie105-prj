@@ -2,7 +2,10 @@ import os
 import numpy as np
 import re
 import pandas as pd
+from sklearn.impute import SimpleImputer
 from androguard.misc import AnalyzeAPK
+from sklearn.feature_selection import VarianceThreshold, SelectKBest, chi2
+
 
 # Đọc tên các cột đặc trưng tĩnh
 cols = pd.read_csv('feature_vectors_static.csv', nrows=0).columns.tolist()
@@ -21,8 +24,35 @@ for pat in patterns.values():
     usecols += [c for c in cols if re.search(pat, c, flags=re.IGNORECASE)]
 
 seen = set()
+
 usecols_static = [c for c in usecols if not (c in seen or seen.add(c))]  # list tên feature static (F1–F7)
-idx_stat  = {c:i for i, c in enumerate(usecols_static)}
+df_static = pd.read_csv(
+    'feature_vectors_static.csv',
+    usecols=usecols,
+    index_col=0,
+)
+df_static = df_static.apply(pd.to_numeric, errors='coerce').astype('float32')
+df_sys_binder = pd.read_csv('feature_vectors_syscallsbinders_frequency_5_Cat.csv')
+y = df_sys_binder['Class'].values
+
+X = df_static.values
+
+#Xử lý NaN
+imp = SimpleImputer(missing_values=np.nan, strategy='constant', fill_value=0)
+X_imputed = imp.fit_transform(X)
+
+#VarianceThreshold 
+vt_selector = VarianceThreshold(threshold=0.0001)
+X_vt = vt_selector.fit_transform(X_imputed)
+names_vt = [f for f, keep in zip(usecols, vt_selector.get_support()) if keep]
+
+#SelectKBest
+kbest_selector = SelectKBest(chi2, k=2000)
+X_kbest = kbest_selector.fit_transform(X_vt, y)
+names_final = [f for f, keep in zip(names_vt, kbest_selector.get_support()) if keep]
+
+
+idx_stat  = {c:i for i, c in enumerate(names_final)}
 
 def extract_static(apk_path):
     # AnalyzeAPK trả về tuple (APK, DalvikVMFormat, Analysis)
