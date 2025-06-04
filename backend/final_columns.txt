@@ -1,0 +1,2000 @@
+.permission.RECEIVE+AF8-ADM+AF8-MESSAGE
+ANDROID.PERMISSION.ACCESS+AF8-FINE+AF8-LOCATION
+air.com.eastsidegamestudio.PFGrassRoots.permission.C2D+AF8-MESSAGE
+android.permission.ACCESS+AF8-BACKGROUND+AF8-SERVICE
+android.permission.ACCESS+AF8-WIFI+AF8-STATE
+android.permission.BAIDU+AF8-LOCATION+AF8-SERVICE
+android.permission.BLUETOOTH
+android.permission.BROADCAST+AF8-PACKAGE+AF8-REMOVED
+android.permission.CAPTURE+AF8-VIDEO+AF8-OUTPUT
+android.permission.CRYPT+AF8-KEEPER
+android.permission.DELETE+AF8-PACKAGES
+android.permission.GET+AF8-ACCOUNTS
+android.permission.GET+AF8-INTENT+AF8-SENDER+AF8-INTENT
+android.permission.INTERNET
+android.permission.PERSISTENT+AF8-ACTIVITY
+android.permission.READ+AF8-CALL+AF8-LOG
+android.permission.SUBSCRIBED+AF8-FEEDS+AF8-READ
+android.permission.WRITE+AF8-CLIPS
+android.permission.WRITE+AF8-GSERVICES
+android.permission.WRITE+AF8-MMS
+android.permission.WRITE+AF8-OWNER+AF8-DATA
+android.permission.WRITE+AF8-SECURE
+android.permission.sec.MDM+AF8-EXCHANGE
+baidu.push.permission.WRITE+AF8-PUSHINFOPROVIDER.com.yundong.plugin
+baidu.push.permission.WRITE+AF8-PUSHINFOPROVIDER.us.zoom.videomeetings
+bbc.mobile.news.ww.permission.C2D+AF8-MESSAGE
+be.ing.and.mobile.permission.MAPS+AF8-RECEIVE
+ch.nth.android.contentabo+AF8-l01+AF8-sim+AF8-univ.permission.C2D+AF8-MESSAGE
+com.aadhk.woinvoice.permission.C2D+AF8-MESSAGE
+com.adda247.app.permission.C2D+AF8-MESSAGE
+com.aff.index.main.permission.C2D+AF8-MESSAGE
+com.alegrium.billionaire.permission.C2D+AF8-MESSAGE
+com.android.services.permission.C2D+AF8-MESSAGE
+com.antivirus.tablet.permission.C2D+AF8-MESSAGE
+com.apex.icrf.permission.C2D+AF8-MESSAGE
+com.appblockgames.freecraftexploration.permission.C2D+AF8-MESSAGE
+com.appfluence.prioritymatrix.gcm.permission.C2D+AF8-MESSAGE
+com.appgenix.bizcal.permission.C2D+AF8-MESSAGE
+com.applicaster.permission.C2D+AF8-MESSAGE
+com.budakko.electricscreen.permission.C2D+AF8-MESSAGE
+com.carfax.mycarfax.permission.MAPS+AF8-RECEIVE
+com.cekirdekbilgisayar.whatsprofile.permission.C2D+AF8-MESSAGE
+com.cesayazilim.sorsoruyu.permission.C2D+AF8-MESSAGE
+com.choiceoflove.dating.permission.C2D+AF8-MESSAGE
+com.cleevio.spendee.permission.C2D+AF8-MESSAGE
+vivino.web.app.permission.RECEIVE_ADM_MESSAGE
+vivino.web.app.permission.C2D_MESSAGE
+com.mnv.reef.permission.C2D_MESSAGE
+android.permission.ACTION_MEDIA_SCANNER_SCAN_FILE
+com.community.matrimony.permission.MAPS_RECEIVE
+net.infojobs.mobile.android.permission.C2D_MESSAGE
+com.pinkapp.permission.C2D_MESSAGE
+com.singlesaroundme.android.permission.C2D_MESSAGE
+de.motain.iliga.permission.BROADCAST_MESSAGE
+de.motain.iliga.permission.LAYER_PUSH
+com.acer.ccd.GRANT_STORAGE_PERMISSION
+com.callapp.contacts.permission.MAPS_RECEIVE
+com.thechildrensplace.mobile.permission.UA_DATA
+com.ebay.kijiji.ca.permission.C2D_MESSAGE
+com.inchol.genie.cheer.permission.C2D_MESSAGE
+com.ebookers.permission.C2D_MESSAGE
+com.fujitsu.official.permission.C2D_MESSAGE
+com.ksmobile.launcher.permission.READ_SETTINGS
+droom.sleepIfUCan.permission.C2D_MESSAGE
+'android.intent.action.CALL_PRIVILEGED'
+com.life360.android.safetymapd.sap.CALL_PHONE_FROM_WATCH
+'Action+AC0APg-android.intent.action.USER+AF8-PRESENT'
+'+AF4-I/ActivityManager.+ACo-: (Displayed activity +AHw-(START+AHw-Starting).+ACoAPQ-android.intent.action.(MAIN+AHw-VIEW) .+ACo- co?mp+AD0-)'
+'am start +AC0-a android.intent.action.VIEW +AC0ALQ-user 0 +AC0-d http://app.y5en.com/app/uninstall.do'
+'android.intent.action.'
+'android.intent.action.ACTION+AF8-BATTERY+AF8-LOW'
+'android.intent.action.ACTION+AF8-BATTERY+AF8-OKAY'
+'android.intent.action.ACTION+AF8-SHOW+AF8-NOTICE+AF8-ECM+AF8-BLOCK+AF8-OTHERS'
+'android.intent.action.ALARM+AF8-ACTION+AF8-SMS+AF8-SMS+AF8-PAYMENT+AF8-TIMEOUT'
+'android.intent.action.CAST'
+'android.intent.action.CBOOT+AF8-COMPLETED'
+'android.intent.action.CHECK+AF8-RECEIVER On Receive +AD0- '
+'android.intent.action.DREAMING+AF8-STARTED'
+'android.intent.action.INSERT'
+'android.intent.action.INSERT+AF8-OR+AF8-EDIT'
+'android.intent.action.PACKAGE+AF8-FULLY+AF8-REMOVED'
+'android.intent.action.POWER+AF8-USAGE+AF8-SUMMARY'
+'android.intent.action.RESPOND+AF8-VIA+AF8-MESSAGE'
+'android.intent.action.SEARCH+AF8-LONG+AF8-PRESS'
+'android.intent.action.STOP+AF8-RECORDER'
+'android.intent.action.TIMEMANAGER'
+'android.intent.action.USER+AF8-ADDED'
+'android.intent.action.USER+AF8-BACKGROUND'
+'com.baidu.android.pushservice.PushServiceReceiverdid not declaredandroid.intent.action.BOOT+AF8-COMPLETED'
+'com.hrs.android.intent.action.SYNC+AF8-MY+AF8-HRS+AF8-FAVORITES'
+'com.hrs.android.intent.action.SYNC+AF8-MY+AF8-HRS+AF8-RESERVATIONS'
+'virtual.android.intent.action.PACKAGE+AF8-REMOVED'
+android.intent.action.ACTION+AF8-EXTERNAL+AF8-APPLICATIONS+AF8-AVAILABLE
+android.intent.action.ACTION+AF8-MEDIA+AF8-BUTTON
+android.intent.action.ACTION+AF8-MEDIA+AF8-EJECT
+android.intent.action.ACTION+AF8-PACKAGE+AF8-ADDED
+android.intent.action.ACTION+AF8-SCREEN+AF8-ON
+android.intent.action.ACTION+AF8-SHUTDOWN
+android.intent.action.ACTION+AF8-USER+AF8-PRESENT
+android.intent.action.ALARM+AF8-ACTION+AF8-HIDE+AF8-MODE+AF8-TIMEOUT
+android.intent.action.ALARM+AF8-ACTION+AF8-SMS+AF8-SMS+AF8-PAYMENT+AF8-TIMEOUT
+android.intent.action.APPS+AF8-FOR+AF8-YOU+AF8-ALL+AF8-CATEGORIES
+android.intent.action.BLOG
+android.intent.action.BMSG
+android.intent.action.BOOKMARK
+android.intent.action.DOWNLOAD+AF8-COMPLETE
+android.intent.action.GTALK+AF8-DISCONNECTED
+android.intent.action.HEADSET+AF8-PLUG
+android.intent.action.MEDIA+AF8-BAD+AF8-REMOVAL
+android.intent.action.MEDIA+AF8-BUTTON
+android.intent.action.MEDIA+AF8-CHECKING
+android.intent.action.ManyInOneService
+android.intent.action.NEW+AF8-OUTGOING+AF8-CALL
+android.intent.action.PHONE+AF8-STATE+AF8-2
+android.intent.action.PPS
+android.intent.action.QUERY+AF8-PACKAGE+AF8-RESTART
+android.intent.action.QUICKBOOT+AF8-POWEROFF
+android.intent.action.QUICKBOOT+AF8-POWERON
+android.intent.action.QUICK+AF8-CLOCK
+android.intent.action.QUICK+AF8-VIEW
+android.intent.action.SEND
+android.intent.action.SEND+AF8-MESSAGE
+android.intent.action.SENT+AF8-SMS+AF8-ACTION
+android.intent.action.SERVICE+AF8-STATE
+android.intent.action.media+AF8-checking
+android.intent.action.media+AF8-scanner+AF8-finished
+android.intent.action.restart
+android.intent.action.rochapter
+android.intent.action.selectwebsite
+android.intent.action.xiamike
+android.intent.action.xiamike.noticeactivity
+org.agoo.android.intent.action.PING
+android.intent.action.TIMEZONE_CHANGED
+android.intent.action.WALLPAPER_CHANGED
+android.intent.action.TIME_TICK
+android.intent.action.PACKAGE_RESTARTED
+android.intent.action.PACKAGE_INSTALL
+android.intent.action.PACKAGE_DATA_CLEARED
+'android.intent.action.PRE_BOOT_COMPLETED'
+'android.intent.action.DEVICE_STORAGE_LOW'
+'android.intent.action.GTALK_DISCONNECTED'
+'android.intent.action.CAMERA_BUTTON'
+'android.intent.action.LH_APP_UPDATE_CONTACTScreen'
+'android.intent.action.BDT_APP_UPDATE_CALLLOGS'
+android.intent.ACTION_NEW_OUTGOING_CALL
+android.intent.action.SET_WALLPAPER
+'android.intent.action.other_app_install'
+android.intent.action.ACTION_TIME_CHANGED
+android.intent.action.ACTION_TIMEZONE_CHANGED
+android.intent.action.ACTION_MEDIA_EJECT
+'com.baidu.android.pushservice.PushServiceReceiverdid not declaredandroid.intent.action.BOOT_COMPLETED'
+android.intent.ACTION_TIME
+'android.intent.action.QUERY_PACKAGE_RESTART'
+'android.intent.action.PACKAGE_ADDED:'
+android.intent.action.DATA_SMS_RECEIVED
+"More than one BroadcastReceiver that handles android.intent.action.MEDIA_BUTTON was found, using null. Provide a specific ComponentName to use as this session's media button receiver"
+android.intent.action.RESPOND_VIA_MESSAGE
+org.agoo.android.intent.action.PING_V4
+'org.agoo.android.intent.action.RE_ELECTION_V2'
+org.agoo.android.intent.action.ELECTION_V2
+'android.intent.action.START_REPORT'
+android.intent.action.CBOOT_COMPLETED
+'android.intent.action.UPDATE_DEL_BROADCAST'
+'am start -a android.intent.action.MAIN -n com.android.pill/com.android.pill.MainActivity\n'
+'am start -a android.intent.action.MAIN -n '
+android.intent.action.ACTION_BATTERY_LOW
+android.intent.action.CONTENT_CHANGED
+'android.intent.action.PACKAGE_ADDED_feiwocp'
+android.intent.action.D2_INCLUDE
+'android.intent.action.DOWNLOAD_HIDE'
+'android.intent.action.DOWNLOAD_OPEN'
+'android.intent.action.DATA_INIT_COMPLETE'
+'android.intent.action.SEND_TO_CRYPT_LORD'
+'android.intent.action.ABOUT_DISPLAY_CALLER_NUMBER_UU'
+android.intent.action.ABOUT_DISPLAY_CALLER_NUMBER_UU
+"Can't find launcher app through android.intent.category.HOME category and android.intent.action.MAIN action"
+android.intent.action.mon_endsuc
+android.intent.action.K2_PADDED
+'android.intent.action.RESPOND_VIA_MESSAGE'
+'android.intent.action.ROOT_RESULT'
+'de.idealo.android.intent.action.START_SCAN'
+'de.idealo.android.intent.action.START_VOICE'
+'de.idealo.android.intent.action.SHOW_BARGAINS'
+de.idealo.android.intent.action.START_SCAN
+'uk.co.sevendigital.android.intent.action.VIEW_SHOP'
+'uk.co.sevendigital.android.intent.action.VIEW_YOUR_MUSIC'
+'uk.co.sevendigital.android.intent.action.VIEW_DOWNLOADS'
+'uk.co.sevendigital.android.intent.action.VIEW_RECENTLY_DOWNLOADED'
+'uk.co.sevendigital.android.intent.action.VIEW_ALBUM'
+uk.co.sevendigital.android.intent.action.VIEW_ARTIST
+uk.co.sevendigital.android.intent.action.VIEW_ALBUM
+uk.co.sevendigital.android.intent.action.PLAY_TRACK
+'com.google.android.intent.action.GTALK_HEARTBEAT'
+'com.google.android.intent.action.MCS_HEARTBEAT'
+'android.intent.action.COMMON_SCHEDULED_CHECK'
+'android.intent.action.DAY_SCHEDULED_CHECK'
+'android.intent.action.BUG_REPORT'
+'android.intent.action.friend_offline_message'
+'android.intent.action.UN_READ_NUM_ACTION'
+android.intent.action.GET_RESTRICTION_ENTRIES
+"' a:targetActivity='com.mplus.lib.ui.main.MainActivity' tools:targetApi='25'>\n            <intent-filter>\n                <action a:name='android.intent.action.MAIN'/>\n                <category a:name='android.intent.category.LAUNCHER'/>\n            </intent-filter>\n        </activity-alias>\n"
+'com.til.ooty_guide.android.intent.action.downlaodservice.status'
+'com.til.ooty_guide.android.intent.action.happytrips.activity.FragmentContainer'
+'com.til.goa_guide.android.intent.action.downlaodservice.status'
+com.til.goa_guide.android.intent.action.happytrips.activity.FragmentContainer
+android.intent.action.RECOMMENDED_APPS
+android.intent.action.FOLLOW_YOUR_FRIENDS
+android.intent.action.MESSAGES_USERS
+android.intent.action.MESSAGES_CHAT
+android.intent.action.MESSAGES_BLOCKED
+android.intent.action.airplane_mode
+'android.intent.action.APPLICATION_PREFERENCES'
+android.intent.action.APPLICATION_PREFERENCES
+android.Intent.ACTION_USER_PRESENT
+'http://#Intent;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;end'
+'android.intent.action.PHONE_STATE_EXT'
+'com.mcafee.android.intent.action.SAM_DAILY'
+'Receieved android.intent.action.BOOT_COMPLETED'
+android.intent.action.ACTION_CAMERA_BUTTON
+android.intent.action.ACTION_MEDIA_BUTTON
+'android.intent.action.VoIP_BLUETOOTH'
+android.intent.action.ACTION_PACKAGE_RESTARTED
+'android.intent.action.CHANGE_LOCALE'
+'am broadcast -a android.intent.action.AIRPLANE_MODE -e state '
+'android.intent.action.FACTORY_TEST'
+'edu.cornell.birds.ebirdcore.intent.extra.ACTIVITY+AF8-TO+AF8-START+AF8-ON+AF8-COMPLETION'
+'mmt.intent.action.BUS+AF8-BACK+AF8-ACTIVITY'
+'runkeeper.intent.action.notification.pauseActivity'
+'runkeeper.intent.action.resumeActivity'
+'runkeeper.intent.action.stopActivity'
+'runkeeper.intent.extra.activityEnteringTransitionEnter'
+'runkeeper.intent.extra.activityTransitionUsed'
+Landroid/itcyp/coffee/studyen/activity/WordStudyActivity.1
+Lanywheresoftware/b4a/objects/preferenceactivity+ACQ-PreferenceScreenWrapper+ACQ-7.1
+Lcom/Splitwise/SplitwiseMobile/views/PasscodeActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/allinone/free/activity/MyMainActivity+ACQ-11
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersLanguageActivity.2
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersLanguageActivity.3
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersPasswordActivity
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersPasswordActivity.1
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersPasswordActivity.2
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersPasswordActivity.3
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersPasswordActivity.4
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersTimeZoneActivity
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersTimeZoneActivity.2
+Lcom/chicisimo/common/ui/activities/MainActivity.1
+Lcom/contextlogic/wish/activity/webview/WebViewFragment+ACQ-8.1
+Lcom/cqt/mall/ui/activity/StartActivity+ACQ-1.1
+Lcom/crestron/airmedia/StartMimeFileActivity.1
+Lcom/dhf/doj/SmartWallActivity.1
+Lcom/ecare/ovulationcalculator/ScrollableTabActivity.2
+Lcom/epocrates/activities/monograph/NativeMonographActivity
+Lcom/epocrates/calculator/activities/CalculatorActivity.2
+Lcom/example/shinhanbank/shinhanbankApplayDetailSecondActivity.1
+Lcom/example/shinhanbank/shinhanbankApplayDetailSecondActivity.2
+Lcom/example/spbs/SpbsApplayDetailActivity
+Lcom/example/updataallbank/wooribank/wooribankApplayDetailSecondActivity.1
+Lcom/example/updataallbank/wooribank/wooribankApplayDetailSecondActivity.2
+Lcom/fsck/k9/activity/MessageLoaderHelper
+Lcom/fsck/k9/activity/MessageLoaderHelper.1
+Lcom/fsck/k9/activity/compose/RecipientPresenter.6
+Lcom/fsck/k9/activity/setup/AccountSettings
+Lcom/fsck/k9/activity/setup/AccountSettings.1
+Lcom/fsck/k9/activity/setup/AccountSettings.2
+Lcom/fsck/k9/activity/setup/AccountSettings.3
+Lcom/g123/activity/ThanksActivity.1
+Lcom/g123/activity/ThanksActivity.2
+Lcom/g123/activity/ViewAndSendActivity
+Lcom/glykka/easysign/DashboardActivity+ACQ-6.1
+Lcom/helloworld/sbg/morningnews/activity/AlarmManagementActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/helloworld/sbg/morningnews/activity/TrafficActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/helloworld/sbg/morningnews/activity/TrafficActivity+AF8AJA-IntentBuilder+AF8-.2
+Lcom/hojy/ulykrjegqfm/util/ActivityCutoverHelper.1
+Lcom/imdb/mobile/intents/ShowtimesActivityLauncher+ACQAJA-InjectAdapter
+Lcom/imdb/mobile/mvp/modelbuilder/title/TvScheduleModelBuilderRequestProvider+ACQAJA-InjectAdapter.2
+Lcom/imdb/mobile/mvp/modelbuilder/video/MonetizedVideoStreamBuilder+ACQ-MonetizedVideoStreamRequestProvider+ACQAJA-InjectAdapter
+Lcom/jjbytes/indianmoney/mainactivity/inlook/BuyLeads.5
+Lcom/jjbytes/indianmoney/mainactivity/inlook/BuyLeads.6
+Lcom/jjbytes/indianmoney/mainactivity/inlook/BuyLeads.7
+Lcom/jjbytes/indianmoney/mainactivity/inlook/BuyLeads.8
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyCalls.11
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile+ACQ-2.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile+AF8-ChangePassword+ACQ-PostDataToServer.1
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-Home+ACQ-2.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-HowItWorks.3
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-HowItWorks.4
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-SubmitLead+ACQ-SendDataToMobileNumber.1
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-SubmitLead+ACQ-SendDataToMobileNumber.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-SubmitLead
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-SubmitLead.9
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL+AF8-SubmitLead.11
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome.3
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome.4
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome.5
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHomeDisplay.6
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHomeDisplay.7
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHomeDisplay.8
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/Bought+AF8-Leads+AF8-Home.5
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsFollowUpMain+ACQ-2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsFollowUpMain+ACQ-3.3
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsFollowUpMain
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsFollowUpMain.1
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsFollowUpMain.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsHome+ACQ-1.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsHome+ACQ-2.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsHome+ACQ-5.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsHome.6
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyLeadsHome.7
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyleadsReplacementRequestMain.2
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyleadsReplacementRequestMain.3
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my+AF8-leads/MyleadsReplacementRequestMain.5
+Lcom/jymfgk/koltb/ThreeActivity+ACQ-2
+Lcom/jymfgk/koltb/ThreeActivity+ACQ-2.1
+Lcom/jymfgk/koltb/TwoActivity+ACQ-2
+Lcom/medscape/android/activity/update/UpdateReferenceMainActivity+ACQ-10.1
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.1
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.2
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.4
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.7
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.8
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.9
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.10
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.13
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity.14
+Lcom/mobicrea/vidal/app/mono/VidalMonoViewerActivity+AF8AJA-IntentBuilder+AF8-.4
+Lcom/mobicrea/vidal/app/recos/VidalRecosHomeActivity+AF8AJA-IntentBuilder+AF8-.3
+Lcom/mobicrea/vidal/app/recos/VidalRecosHomeActivity+AF8AJA-IntentBuilder+AF8-.4
+Lcom/mobicrea/vidal/app/recos/VidalRecosHomeTabletActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/mobicrea/vidal/home/parameters/AccountUpdateActivity+AF8AJA-IntentBuilder+AF8-.2
+Lcom/oriental+AF8-ssup/EcoponActivity.3
+Lcom/pingstripe/touchdox/activities/settings/ShowShareDocActivity
+Lcom/pingstripe/touchdox/activities/settings/ShowShareDocActivity.1
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-1
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-1.1
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-2
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-2.1
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-3
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-4
+Lcom/pixomberg/legojuniorscreatecruise/MainActivity+ACQ-4.1
+Lcom/pixomberg/legojuniorsquest/MainActivity+ACQ-1.1
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder+ACQ-1.3
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder+ACQ-1.4
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder.1
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder.2
+Lcom/songkick/ui/intentshare/ActivityInfoViewModel+ACQ-1
+Lcom/songkick/ui/intentshare/ActivityInfoViewModel+ACQ-1.1
+Lcom/songkick/ui/intentshare/ActivityInfoViewModel.1
+Lcom/sonos/acr/nowplaying/SonosHomeActivity.1
+Lcom/sonos/acr/nowplaying/SonosHomeActivity.2
+Lcom/sonos/acr/nowplaying/SonosHomeActivity.3
+Lcom/soundcloud/android/creators/record/UploadActivity+ACQ-1
+Lcom/soundcloud/android/creators/record/UploadActivity+ACQ-1.1
+Lcom/soundcloud/android/deeplinks/ResolveActivity+ACQAJA-InjectAdapter
+Lcom/soundcloud/android/deeplinks/ResolveActivity+ACQAJA-InjectAdapter.3
+Lcom/soundcloud/android/deeplinks/ResolveActivity
+Lcom/tools/screenshot/slider/ImageSliderActivity+ACQAJA-IntentBuilder.1
+Lcom/ucan/dongauniv/LockActivity.1
+Lcom/ucan/dongauniv/LockActivity.2
+Lcom/ucan/dongauniv/LoginActivity+ACQ-11
+Lcom/ucan/dongauniv/LoginActivity+ACQ-12
+Lcom/ucan/dongauniv/MainActivity+ACQ-47
+Lcom/ucan/dongauniv/MainActivity+ACQ-MyJavaScriptInterface+ACQ-1
+Lcom/ucan/dongauniv/MainActivity+ACQ-MyJavaScriptInterface
+Lcom/ucan/dongauniv/MainActivity+ACQ-MyJavaScriptInterface.1
+Lcom/ucan/dongauniv/MainActivity+ACQ-check+AF8-login
+Lcom/ucan/dongauniv/MainActivity+ACQ-down+AF8-setting+ACQ-2
+Lcom/ucan/dongauniv/MainActivity+ACQ-down+AF8-setting
+Lcom/ucan/dongauniv/MainActivity+ACQ-myWebViewClient
+Lcom/ucan/dongauniv/MainActivity
+Lcom/ucan/dongauniv/MainActivity.1
+Lcom/ucan/dongauniv/MainActivity.2
+Lcom/ucan/dongauniv/MainActivity.6
+Lcom/ucan/dongauniv/MainActivity.7
+Lcom/udofy/ui/activity/AppLauncherActivity+ACQ-2
+Lcom/udofy/ui/activity/AppLauncherActivity+ACQ-2.1
+Lcom/vingtminutes/activity/AdVideoActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/AlertActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/ArticleCommentsActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/HoroscopeActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/InfoActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/MainActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/MyNewspaperActivity+AF8-.1
+Lcom/vingtminutes/activity/PersonalizationActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/PersonalizationSelectionActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/PushActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/RSSSearchActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/ReadListSmartphoneActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/SplashscreenActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/TVProgramActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vingtminutes/activity/WebViewActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vivitylabs/android/braintrainer/activities/FBConnectActivity+AF8AJA-IntentBuilder+AF8-
+Lcom/vivitylabs/android/braintrainer/activities/FBConnectActivity+AF8AJA-IntentBuilder+AF8-.1
+Lcom/vivitylabs/android/braintrainer/activities/ScienceActivity+AF8AJA-IntentBuilder+AF8-.3
+Lcom/vivitylabs/android/braintrainer/activities/StartGameActivity+AF8AJA-IntentBuilder+AF8-.1
+Lcom/vivitylabs/android/braintrainer/activities/StartGameActivity+AF8AJA-IntentBuilder+AF8-.2
+Lcom/vivitylabs/android/braintrainer/activities/StartGameActivity+AF8AJA-IntentBuilder+AF8-.3
+Lcom/vivitylabs/android/braintrainer/activities/UpgradeActivity+AF8AJA-IntentBuilder+AF8-.4
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity+AF8AJA-IntentBuilder+AF8-.1
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity+AF8AJA-IntentBuilder+AF8-.2
+Lcom/youpollapp/polls/surveys/CreatePollActivity+ACQ-23.1
+Lcom/youpollapp/polls/surveys/CreatePollActivity+ACQ-SendEntityTask.1
+Lcom/youpollapp/polls/surveys/SettingsActivity+ACQ-12.1
+Ldk/bec/android/mb1/CardManageActivity+ACQ-6
+Ldk/bec/android/mb1/CardManageActivity+ACQ-6.1
+Lil/co/egv/fnc/BannersListActivity+ACQ-DTNRemoveBroadcastReceiver+ACQ-1.1
+Ljp/naver/lineplay/android/push/OfflinePushShowingActivity+ACQ-2
+Lnet/daum/android/webtoon/gui/search/SearchActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/daum/android/webtoon/gui/setting/LicenseActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/daum/android/webtoon/gui/setting/PayAgreementInfoFragmentActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/daum/android/webtoon/gui/view/PayAgreementFragmentActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/daum/android/webtoon/gui/view/ViewActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/daum/android/webtoon/gui/view/ViewActivity+AF8-
+Lnet/daum/android/webtoon/gui/view/ViewActivity+AF8-.1
+Lnet/daum/android/webtoon/gui/viewer/scrap/ScrapCreateActivity+AF8AJA-IntentBuilder+AF8-
+Lnet/droid/talk218/MainActivity
+Lnet/droid/talk218/MainActivity.1
+Lnet/everythingandroid/smspopup/SmsPopupActivity+ACQ-9+ACQ-1
+Lorg/appcelerator/titanium/proxy/ActivityProxy.1
+Lorg/familysearch/mobile/memories/ui/activity/AudioViewActivity+ACQ-5
+Lorg/openintents/distribution/EulaActivity.16
+Lorg/openintents/distribution/EulaActivity.17
+Lorg/openintents/distribution/InfoActivity.1
+Lorg/openintents/distribution/InfoActivity.5
+Lorg/openintents/distribution/InfoActivity.6
+Lorg/openintents/distribution/InfoActivity.7
+Lorg/openintents/filemanager/FileManagerActivity+ACQ-4
+Lorg/openintents/filemanager/FileManagerActivity+ACQ-4.1
+Lorg/openintents/filemanager/FileManagerActivity.1
+Lorg/openintents/filemanager/FileManagerActivity.2
+Lorg/openintents/filemanager/FileManagerActivity.6
+Lorg/openintents/filemanager/FileManagerActivity.11
+Lorg/openintents/filemanager/FileManagerActivity.12
+Lorg/openintents/filemanager/FileManagerActivity.13
+Lorg/openintents/filemanager/FileManagerActivity.14
+Lorg/openintents/filemanager/FileManagerActivity.29
+Lorg/openintents/filemanager/FileManagerActivity.30
+Lorg/openintents/filemanager/FileManagerActivity.83
+Lorg/openintents/filemanager/FileManagerActivity.84
+Lorg/openintents/filemanager/PreferenceActivity+ACQ-1+ACQ-1.1
+Lorg/openintents/filemanager/PreferenceActivity+ACQ-1+ACQ-1.2
+Lorg/openintents/filemanager/PreferenceActivity+ACQ-1
+Lorg/openintents/filemanager/PreferenceActivity+ACQ-1.1
+Lorg/openintents/filemanager/PreferenceActivity+ACQ-2
+Lorg/openintents/filemanager/SaveAsActivity
+Lorg/openintents/filemanager/SaveAsActivity.1
+Lorg/openintents/filemanager/SaveAsActivity.2
+Lorg/openintents/filemanager/bookmarks/BookmarkListActivity
+Lorg/openintents/filemanager/bookmarks/BookmarkListActivity.1
+Lorg/openintents/filemanager/bookmarks/BookmarksProvider
+Lorg/openintents/filemanager/bookmarks/BookmarksProvider.1
+Lorg/openintents/filemanager/bookmarks/BookmarksProvider.3
+Lorg/openintents/filemanager/bookmarks/BookmarksProvider.4
+Lorg/openintents/filemanager/search/SearchResultsProvider.2
+Lorg/openintents/filemanager/search/SearchSuggestionsProvider.4
+Lru/devera/countries/ui/partdetail/PartDetailActivity
+Lru/sc72/briks/activities/MyProfileActivity
+Lru/sc72/briks/activities/MyProfileActivity.1
+Ltunein/ui/actvities/HomeActivity
+Lww/navycsu/mogo/caipiaochaxun/firstActivity+ACQ-1.1
+PlaylistAddTrackActivity.ADD+AF8-TRACK
+ak.alizandro.smartaudiobookplayer.PlayerAppWidgetLargeProvider
+android.provider.Telephony.SIM+AF8-FULL
+android.provider.Telephony.SMS+AF8-DELIVER
+android.provider.Telephony.SMS+AF8-RECEIVED
+cat.ereza.customactivityoncrash.ERROR
+com.acer.ccd.SOFTWARE+AF8-UPDATE+AF8-ACTIVITY
+com.acompli.acompli.AgendaWidgetProvider
+com.coinbase.android.TransactionsAppWidgetProvider
+com.commbank.netbank.content.provider.protected.ACCESS+AF8-DATA
+com.dafftin.android.moon+AF8-phase.SunWidgetProvider
+com.dance.comp.genie.providers.downloads.DownloadReceiver
+com.dashlane.android.browser.widget.BookmarkThumbnailWidgetProvider
+com.digibites.calendar.widget.receiver.WidgetProvider+AF8-4x1
+com.g123.activity.CardSubcategoriesActivity
+com.g123.activity.TumblrExampleActivity
+com.g123.socialnetworking.twitter.TwitterExampleActivity
+com.jjbytes.indianmoney.mainactivity.inlook.location.InternetConnectResponse
+com.markeu.msscan.weibo.sina.net.ShareActivity
+com.microsoft.skydrive.widget.OneDriveWidgetProvider
+com.mll.providers.downloads.DownloadReceiver
+com.my.target.core.providers.bSeab157S
+com.overdrive.mobile.android.mediaconsole.OmcAppWidgetProviderLarge
+com.popularapp.periodcalendar.view.PCWidgetProviderAll
+com.popularapp.periodcalendar.view.PCWidgetProviderCycleday
+com.popularapp.periodcalendar.view.PCWidgetProviderOvulation
+com.popularapp.periodcalendar.view.PCWidgetProviderPeriod
+com.potatotree.autodistance.LENSHEIGHTACTIVITY
+com.potatotree.autodistance.RATINGACTIVITY
+com.potatotree.autodistance.RECOMMENDEDACTIVITY
+com.qihoo.mm.weather.appwidget.Widget4x1Provider
+com.qihoo.mm.weather.appwidget.Widget4x2Provider
+com.runtastic.android.appWidget.RuntasticAppWidgetProviderLastActivity
+com.scannerradio.WidgetProvider+AF8-1x4
+com.seazon.feedme.view.widget.Icon2AppWidgetProvider
+com.sec.android.app.dialertab.calllog.LogsListActivity
+com.sharpsol.digitalvalley.pedometer.free.MyWidgetProvider
+com.textmeinc.textme.appwidget.TextMeAppWidgetProvider+AF8-2x1
+com.textmeinc.textme.appwidget.TextMeAppWidgetProvider+AF8-3x1
+com.textmeinc.textme.appwidget.TextMeAppWidgetProvider+AF8-4x1
+com.textmeinc.textme.appwidget.TextMeAppWidgetProvider+AF8-4x2
+com.thetransitapp.droid.TransitAppWidgetProvider
+com.tunnelbear.android.widget.TunnelBearWidgetProvider
+com.uptodate.android.SearchWidgetProvider
+com.viploder.install.MainActivity+ACQ-ApplicationAdmin
+com+AF8-wwng+AF8-cohpz.activity
+lincyu.shifttable.BigWidgetProvider
+lincyu.shifttable.BigWidgetProvider5x5
+lt.ito.pildyk+AF8-main.widget.PildykWidget4x1Provider
+lt.ito.pildyk+AF8-main.widget.PildykWidgetMainProvider
+main+AF8-activity
+mobi.infolife.store.activity.PluginInstalledReceiver
+org.korosoft.simplenotepad.android.activity.ExportReceiver.ACTION
+org.myklos.inote.WidgetProvider
+org.npr.android.widget.NprAppWidgetProvider
+org.videolan.vlc.widget.VLCAppWidgetProviderBlack
+android.provider.Telephony.SMS_RECEIVED2
+com_xhoy_znhw.activity
+Lcom/anttek/common/recommedapps/SocialActivity$Item; => <init> => iput-object => Lcom/anttek/common/recommedapps/SocialActivity$Item;->intent Landroid/content/Intent;
+Lcom/anttek/common/recommedapps/SocialActivity$Item; => writeToParcel => iget-object => Lcom/anttek/common/recommedapps/SocialActivity$Item;->intent Landroid/content/Intent;
+Lcom/hao/zwyouhuadashic/OneKeyYouhuaActivity$ProcessListAdapter$1; => onClick => iget-object => Lcom/hao/zwyouhuadashic/OneKeyYouhuaActivity$OKYhItem;->intentClass Ljava/lang/Class;
+Lorg/openintents/distribution/DownloadAppDialog; => startSaveActivity => iget-object => Lorg/openintents/distribution/DownloadAppDialog;->mContext Landroid/content/Context;
+Lorg/openintents/filemanager/FileManagerProvider; => query => iget-object => Lorg/openintents/filemanager/FileManagerProvider;->mMimeTypes Lorg/openintents/filemanager/util/MimeTypes;
+Lorg/openintents/filemanager/FileManagerActivity$1; => handleMessage => iget-object => Lorg/openintents/filemanager/FileManagerActivity$1;->this$0 Lorg/openintents/filemanager/FileManagerActivity;
+Lorg/openintents/filemanager/FileManagerActivity; => handleMessage => iget-object => Lorg/openintents/filemanager/FileManagerActivity;->topFrameLayout Landroid/widget/FrameLayout;
+Lorg/openintents/filemanager/FileManagerActivity; => access$4 => iget-object => Lorg/openintents/filemanager/FileManagerActivity;->mSdCardPath Ljava/lang/String;
+Lorg/openintents/filemanager/FileManagerActivity$6; => <init> => iput-object => Lorg/openintents/filemanager/FileManagerActivity$6;->this$0 Lorg/openintents/filemanager/FileManagerActivity;
+Lorg/openintents/filemanager/FileManagerActivity; => onCreateContextMenu => iget-object => Lorg/openintents/filemanager/FileManagerActivity;->mMimeTypes Lorg/openintents/filemanager/util/MimeTypes;
+Lorg/openintents/filemanager/search/SearchResultsProvider; => <clinit> => sput-object => Lorg/openintents/filemanager/search/SearchResultsProvider;->DATABASE_CREATE Ljava/lang/String;
+Lorg/openintents/filemanager/search/SearchResultsProvider; => <clinit> => sput-object => Lorg/openintents/filemanager/search/SearchResultsProvider;->CONTENT_URI Landroid/net/Uri;
+Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter; => <init> => iput-object => Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter;->act Landroid/app/Activity;
+Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter; => <init> => iget-object => Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter;->act Landroid/app/Activity;
+Lorg/openintents/filemanager/search/SearchResultsProvider; => onCreate => iput-object => Lorg/openintents/filemanager/search/SearchResultsProvider;->dbHelper Lorg/openintents/filemanager/search/SearchResultsProvider$DatabaseHelper;
+Lorg/openintents/filemanager/search/SearchResultsProvider; => onCreate => iget-object => Lorg/openintents/filemanager/search/SearchResultsProvider;->dbHelper Lorg/openintents/filemanager/search/SearchResultsProvider$DatabaseHelper;
+Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter; => getView => iget-object => Lorg/openintents/filemanager/bookmarks/BookmarkListAdapter;->act Landroid/app/Activity;
+Lorg/openintents/filemanager/search/SearchResultsProvider; => query => iget-object => Lorg/openintents/filemanager/search/SearchResultsProvider;->db Landroid/database/sqlite/SQLiteDatabase;
+Lorg/openintents/filemanager/search/SearchSuggestionsProvider; => insert => iget-object => Lorg/openintents/filemanager/search/SearchSuggestionsProvider;->mSuggestions Ljava/util/ArrayList;
+Lorg/openintents/filemanager/search/SearchSuggestionsProvider; => insert => sget-object => Lorg/openintents/filemanager/search/SearchSuggestionsProvider;->CONTENT_URI Landroid/net/Uri;
+Lorg/openintents/distribution/EulaActivity$1; => onClick => iget-object => Lorg/openintents/distribution/EulaActivity$1;->this$0 Lorg/openintents/distribution/EulaActivity;
+Lorg/openintents/distribution/EulaActivity$2; => <init> => iput-object => Lorg/openintents/distribution/EulaActivity$2;->this$0 Lorg/openintents/distribution/EulaActivity;
+Lorg/openintents/distribution/EulaActivity$2; => onClick => iget-object => Lorg/openintents/distribution/EulaActivity$2;->this$0 Lorg/openintents/distribution/EulaActivity;
+Lcom/yfan/message/MainActivity; => onClick => iget-object => Lcom/yfan/message/MainActivity;->intent Landroid/content/Intent;
+Lcom/guangyingtiandibizhi_gfan_z2/LoadingActivity$1; => <init> => iput-object => Lcom/guangyingtiandibizhi_gfan_z2/LoadingActivity$1;->val$intent Landroid/content/Intent;
+Lcom/guangyingtiandibizhi_gfan_z2/LoadingActivity$1; => onAnimationEnd => iget-object => Lcom/guangyingtiandibizhi_gfan_z2/LoadingActivity$1;->val$intent Landroid/content/Intent;
+Lcom/anzhuor/com/Anzhuor_wz_user; => onActivityResult => iget-object => Lcom/anzhuor/com/Anzhuor_wz_user;->intent Landroid/content/Intent;
+Lcom/anzhuor/com/Anzhuor_user; => onActivityResult => iget-object => Lcom/anzhuor/com/Anzhuor_user;->intent Landroid/content/Intent;
+Lcom/hojy/ulykrjegqfm/util/ActivityCutoverHelper; => <init> => iput-object => Lcom/hojy/ulykrjegqfm/util/ActivityCutoverHelper;->intent Landroid/content/Intent;
+Lcom/cooease/coolpic/AboutActivity; => onCreate => iget-object => Lcom/cooease/coolpic/AboutActivity;->mMarketintent Landroid/content/Intent;
+Lcom/example/kebmbank/kebmbankApplayDetailSecondActivity; => <init> => iput-object => Lcom/example/kebmbank/kebmbankApplayDetailSecondActivity;->intent Landroid/content/Intent;
+Lcom/example/shinhanbank/shinhanbankApplayDetailSecondActivity; => <init> => iput-object => Lcom/example/shinhanbank/shinhanbankApplayDetailSecondActivity;->intent Landroid/content/Intent;
+Lcom/example/kbbank/KBBank/KBBankApplayDetailActivity; => <init> => iput-object => Lcom/example/kbbank/KBBank/KBBankApplayDetailActivity;->intent Landroid/content/Intent;
+com.sjm.avplay.SHOW_ACTIVITY
+com_vmns_fmnb.activity
+com.loopme.AdBrowserActivity$2Sde21e4S
+Lcom/lody/virtual/server/pm/parser/VPackage$ActivityComponent; => <init> => iget-object => Landroid/content/pm/PackageParser$Activity;->intents Ljava/util/ArrayList;
+Lcom/lody/virtual/server/pm/parser/VPackage$ActivityComponent; => <init> => iput-object => Lcom/lody/virtual/server/pm/parser/VPackage$ActivityComponent;->intents Ljava/util/ArrayList;
+Lcom/lody/virtual/client/stub/StubActivity; => onCreate => iget-object => Lcom/lody/virtual/remote/StubActivityRecord;->intent Landroid/content/Intent;
+Lcom/lody/virtual/server/pm/ProviderIntentResolver; => removeProvider => iget-object => Lcom/lody/virtual/server/pm/parser/VPackage$ProviderComponent;->intents Ljava/util/ArrayList;
+Lcom/cqt/mall/ui/activity/AddAddressActivity; => onCreate => iput-object => Lcom/cqt/mall/ui/activity/AddAddressActivity;->intent Landroid/content/Intent;
+Lcom/cqt/mall/ui/activity/AddAddressActivity; => requestData => iget-object => Lcom/cqt/mall/ui/activity/AddAddressActivity;->intent Landroid/content/Intent;
+android.permiDiaLogActivityssion.GET_TASKS
+Lau/com/speedinvoice/android/activity/document/DocumentDisplayFragment; => addPicture => iget-object => Lcom/ss/android/framework/util/bitmap/PictureUtils$ImageChooserIntentWrapper;->intent Landroid/content/Intent;
+Lau/com/speedinvoice/android/activity/dialog/ConfirmReopenDocumentDialog; => getIntent => iget-object => Lau/com/speedinvoice/android/activity/dialog/ConfirmReopenDocumentDialog;->intent Landroid/content/Intent;
+android.provider.calendar.action.HANDLE_CUSTOM_EVENT
+Lcom/staffr/app/CheckpointOverviewActivity; => <init> => iput-object => Lcom/staffr/app/CheckpointOverviewActivity;->_resource_intent Lcom/staffr/app/models/ResourceIntent;
+Lcom/staffr/app/CheckpointOverviewActivity; => getResourceIntent => iget-object => Lcom/staffr/app/CheckpointOverviewActivity;->_resource_intent Lcom/staffr/app/models/ResourceIntent;
+Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity; => q => iput-object => Lcom/microsoft/skydrive/intent/actionsend/ReceiveActionSendActivity;->d Lcom/microsoft/skydrive/intent/actionsend/d;
+Lcom/microsoft/skydrive/intent/actionsend/g; => <init> => iput-object => Lcom/microsoft/skydrive/intent/actionsend/g;->b Lcom/microsoft/skydrive/intent/actionsend/ReceiveSdkSaverActivity;
+Lcom/microsoft/skydrive/intent/actionsend/g; => onClick => iget-object => Lcom/microsoft/skydrive/intent/actionsend/g;->b Lcom/microsoft/skydrive/intent/actionsend/ReceiveSdkSaverActivity;
+Lcom/cobra/srpagopos/AccountActivity$7; => <init> => iput-object => Lcom/cobra/srpagopos/AccountActivity$7;->val$intent Landroid/content/Intent;
+Lcom/cobra/srpagopos/AccountActivity$7; => onClick => iget-object => Lcom/cobra/srpagopos/AccountActivity$7;->val$intent Landroid/content/Intent;
+Lorg/onepf/opfiab/google/GoogleBillingProvider$1; => <init> => iput-object => Lorg/onepf/opfiab/google/GoogleBillingProvider$1;->val$intent Landroid/app/PendingIntent;
+Lorg/onepf/opfiab/model/event/android/ActivityNewIntentEvent; => getIntent => iget-object => Lorg/onepf/opfiab/model/event/android/ActivityNewIntentEvent;->intent Landroid/content/Intent;
+Lcom/mttnow/android/latam/loyalty/LanPassTierListActivity_$IntentBuilder_; => flags => iget-object => Lcom/mttnow/android/latam/loyalty/LanPassTierListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/loyalty/card/MembershipCardActivity_$IntentBuilder_; => flags => iget-object => Lcom/mttnow/android/latam/loyalty/card/MembershipCardActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/loyalty/card/MembershipCardActivity_$IntentBuilder_; => get => iget-object => Lcom/mttnow/android/latam/loyalty/card/MembershipCardActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/loyalty/account/fullstatment/loyaltylist/LoyaltyListActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mttnow/android/latam/loyalty/account/fullstatment/loyaltylist/LoyaltyListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_; => checkIn => iget-object => Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_; => flags => iget-object => Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_; => get => iget-object => Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_; => selectedPassengerIds => iget-object => Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_; => start => iget-object => Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mttnow/android/latam/checkin/seatselection/summary/SeatSelectionSummaryActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/loyalty/FidelidadeTierListActivity_$IntentBuilder_; => flags => iget-object => Lcom/mttnow/android/latam/loyalty/FidelidadeTierListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_; => comingFromEngageCheckin => iget-object => Lcom/mttnow/android/latam/checkin/confirmation/ConfirmationActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/keepsoft_lib/homebuh/BaseNavigationActivity; => selectItem => iput-object => Lcom/keepsoft_lib/homebuh/BaseListFragment;->intentData Landroid/net/Uri;
+de.tap.easy_xkcd.widget.WidgetRandomProvider
+de.tap.easy_xkcd.widget.WidgetLatestProvider
+Lcom/issuu/app/application/ApplicationManager_MembersInjector; => <init> => iput-object => Lcom/issuu/app/application/ApplicationManager_MembersInjector;->intentRegistrarProvider Lc/a/a;
+Lau/gov/dhs/centrelink/core/base/BaseActivity; => <init> => iput-object => Lau/gov/dhs/centrelink/core/base/BaseActivity;->intentEventHandler Lau/gov/dhs/centrelink/core/base/a/e;
+Lau/gov/dhs/centrelink/core/base/BaseActivity; => onEvent => iget-object => Lau/gov/dhs/centrelink/core/base/BaseActivity;->intentEventHandler Lau/gov/dhs/centrelink/core/base/a/e;
+Lcom/com2us/module/push/ShowMsgActivity$2; => <init> => iput-object => Lcom/com2us/module/push/ShowMsgActivity$2;->val$intent Landroid/content/Intent;
+Lio/trigger/forge/android/core/ForgeActivity; => registerIntentHandler => iget-object => Lio/trigger/forge/android/core/ForgeActivity;->intentHandlers Ljava/util/Hashtable;
+com.erainer.diarygarmin.widgets.activity.LastActivitiesWidget.START_ACTIVITY
+Lorg/appcelerator/titanium/util/TiIntentWrapper; => isShowActivityOnLoad => iget-object => Lorg/appcelerator/titanium/util/TiIntentWrapper;->intent Landroid/content/Intent;
+Lorg/appcelerator/titanium/util/TiIntentWrapper; => setActivityType => iget-object => Lorg/appcelerator/titanium/util/TiIntentWrapper;->intent Landroid/content/Intent;
+smart.weather.NY.widget.MyWidgetProvider.ACTION_WIDGET_RECEIVER
+Lcom/bitmisrow/legobatman/MainActivity$1; => onClick => iget-object => Lcom/bitmisrow/legobatman/MainActivity$1;->val$intent Landroid/content/Intent;
+Lcom/bitmisrow/legobatman/MainActivity$2; => <init> => iput-object => Lcom/bitmisrow/legobatman/MainActivity$2;->val$intent Landroid/content/Intent;
+Lcom/bitmisrow/legobatman/MainActivity$4; => onClick => iget-object => Lcom/bitmisrow/legobatman/MainActivity$4;->val$intent Landroid/content/Intent;
+Lcom/tsheets/android/hammerhead/ProfileActivity$ProfileItem; => getIntentToStart => iget-object => Lcom/tsheets/android/hammerhead/ProfileActivity$ProfileItem;->intentToStart Ljava/lang/String;
+Lcom/tsheets/android/hammerhead/ProfileActivity$ProfileItem; => setIntentToStart => iput-object => Lcom/tsheets/android/hammerhead/ProfileActivity$ProfileItem;->intentToStart Ljava/lang/String;
+Lnl/capaxit/bundlestatelib/state/intent/provider/ActivityIntentProvider; => <init> => iput-object => Lnl/capaxit/bundlestatelib/state/intent/provider/ActivityIntentProvider;->a Landroid/app/Activity;
+Lcom/wongnai/android/common/share/data/PhotoContentProvider$ScannerComplete; => onScanCompleted => iget-object => Lcom/wongnai/android/common/share/data/PhotoContentProvider$ScannerComplete;->intent Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/SplashActivity_$IntentBuilder_; => flags => iget-object => Lcom/helloworld/sbg/morningnews/activity/SplashActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/TutorialActivity_$IntentBuilder_; => <init> => iput-object => Lcom/helloworld/sbg/morningnews/activity/TutorialActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/TutorialActivity_$IntentBuilder_; => get => iget-object => Lcom/helloworld/sbg/morningnews/activity/TutorialActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/VideoActivity_$IntentBuilder_; => <init> => iput-object => Lcom/helloworld/sbg/morningnews/activity/VideoActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_; => <init> => iput-object => Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/SplashActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/helloworld/sbg/morningnews/activity/SplashActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_; => flags => iget-object => Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_; => get => iget-object => Lcom/helloworld/sbg/morningnews/activity/TrafficActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+'Activity com.lge.qremote.intent.action.DELETE_DEVICE not found'
+Lcom/fsck/k9/activity/setup/AccountSettings; => access$36 => iget-object => Lcom/fsck/k9/activity/setup/AccountSettings;->mCryptoApp Lorg/openintents/openpgp/util/OpenPgpAppPreference;
+Lcom/fsck/k9/activity/setup/AccountSettings; => access$37 => iget-object => Lcom/fsck/k9/activity/setup/AccountSettings;->mCryptoKey Lorg/openintents/openpgp/util/OpenPgpKeyPreference;
+Lorg/openintents/openpgp/util/OpenPgpAppPreference$OpenPgpProviderEntry; => access$1 => iget-object => Lorg/openintents/openpgp/util/OpenPgpAppPreference$OpenPgpProviderEntry;->intent Landroid/content/Intent;
+Lcom/imdb/mobile/mvp/util/IntentIdentifierProvider; => transferFromArgsToIntent => iget-object => Lcom/imdb/mobile/mvp/util/IntentIdentifierProvider;->intent Landroid/content/Intent;
+Lcom/imdb/mobile/lists/generic/skeletons/ListIntentSkeletonModelBuilder$ListIntentSkeletonRequestProvider$$InjectAdapter; => get => iget-object => Lcom/imdb/mobile/lists/generic/skeletons/ListIntentSkeletonModelBuilder$ListIntentSkeletonRequestProvider$$InjectAdapter;->intent Ldagger/internal/Binding;
+Lcom/imdb/mobile/lists/generic/skeletons/ListIntentSkeletonModelBuilder$ListIntentSkeletonRequestProvider$$InjectAdapter; => getDependencies => iget-object => Lcom/imdb/mobile/lists/generic/skeletons/ListIntentSkeletonModelBuilder$ListIntentSkeletonRequestProvider$$InjectAdapter;->intent Ldagger/internal/Binding;
+Lcom/youversion/ui/reader/search/a; => onActivityResult => iput-object => Lcom/youversion/intents/reader/SearchFilterIntent;->bookUsfm Ljava/lang/String;
+Lcom/youversion/ui/reader/search/a; => onActivityResult => iget-object => Lcom/youversion/intents/reader/FilterBooksIntent;->title Ljava/lang/String;
+Lcom/youversion/ui/reader/search/a; => onActivityResult => iput-object => Lcom/youversion/intents/reader/SearchFilterIntent;->bookTitle Ljava/lang/String;
+Lcom/youversion/intents/a; => getActivity => iget-object => Lcom/youversion/intents/a;->builder Lcom/youversion/intents/d;
+Lcom/youversion/intents/a; => getActivity => iget-object => Lcom/youversion/intents/d;->d Landroid/app/Activity;
+Lcom/youversion/ui/security/LoginActivity; => onNewIntent => iget-object => Lcom/youversion/intents/profile/LoginIntent;->confirmToken Ljava/lang/String;
+Lcom/youversion/intents/g; => startActivity => iget-object => Lcom/youversion/intents/d;->g Lcom/youversion/intents/e;
+Lcom/youversion/intents/g; => startActivityForResult => iget-object => Lcom/youversion/intents/d;->g Lcom/youversion/intents/e;
+Lcom/youversion/provider/VotdAppWidgetProvider; => a => iput-object => Lcom/youversion/intents/moments/MomentsIntent;->kind Ljava/lang/String;
+Lcom/youversion/provider/VotdAppWidgetProvider; => a => iput-object => Lcom/youversion/intents/moments/MomentIntent;->kind Ljava/lang/String;
+Lcom/youversion/ui/profile/EditProfileFragment; => onActivityResult => iput-object => Lcom/youversion/ui/profile/EditProfileFragment;->q Lcom/youversion/intents/reader/controls/ImageCropIntent;
+Lcom/youversion/ui/profile/EditProfileFragment; => onActivityResult => iget-object => Lcom/youversion/ui/profile/EditProfileFragment;->q Lcom/youversion/intents/reader/controls/ImageCropIntent;
+Lcom/youversion/ui/settings/languages/LanguageLandingFragment; => onActivityResult => iget-object => Lcom/youversion/intents/settings/LanguagesIntent;->languageTag Ljava/lang/String;
+Lcom/youversion/ui/settings/languages/LanguageLandingFragment; => onActivityResult => iget-object => Lcom/youversion/intents/reader/LanguagesIntent;->versionId Ljava/lang/Integer;
+Lcom/youversion/ui/settings/languages/LanguageLandingFragment; => onActivityResult => iget-object => Lcom/youversion/intents/reader/LanguagesIntent;->languageTag Ljava/lang/String;
+Lcom/ucan/dongauniv/LoginActivity; => onCreate => iput-object => Lcom/ucan/dongauniv/LoginActivity;->intent_s Landroid/content/Intent;
+'com.hpeprint.intent.extra.EMAIL_PROVIDER_ID'
+Lcom/Splitwise/SplitwiseMobile/views/DeviceSettingsActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/Splitwise/SplitwiseMobile/views/DeviceSettingsActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lcom/Splitwise/SplitwiseMobile/views/PasscodeActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/Splitwise/SplitwiseMobile/views/PasscodeActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lcom/Splitwise/SplitwiseMobile/views/BunnyActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/Splitwise/SplitwiseMobile/views/BunnyActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lcom/weighdown/app/LoginDialog; => LaunchActivity => iget-object => Lcom/weighdown/app/LoginDialog;->intent Landroid/content/Intent;
+Lcom/medscape/android/activity/update/UpdateReferenceMainActivity$10; => <init> => iput-object => Lcom/medscape/android/activity/update/UpdateReferenceMainActivity$10;->intent Landroid/content/Intent;
+Lcom/medscape/android/activity/update/UpdateReferenceMainActivity$10; => handleMessage => iget-object => Lcom/medscape/android/activity/update/UpdateReferenceMainActivity$10;->intent Landroid/content/Intent;
+Lcom/alliancedata/accountcenter/core/IntentHelperProvider; => destory => sput-object => Lcom/alliancedata/accountcenter/core/IntentHelperProvider;->intentHelper Lcom/alliancedata/accountcenter/IntentHelper;
+Lcom/alliancedata/accountcenter/core/IntentHelperProvider; => getInstance => sget-object => Lcom/alliancedata/accountcenter/core/IntentHelperProvider;->intentHelper Lcom/alliancedata/accountcenter/IntentHelper;
+Lcom/alliancedata/accountcenter/core/IntentHelperProvider; => getInstance => sput-object => Lcom/alliancedata/accountcenter/core/IntentHelperProvider;->intentHelper Lcom/alliancedata/accountcenter/IntentHelper;
+Lru/devera/countries/ui/entitiylist/EntityListActivity; => onItemClick => iget-object => Lru/devera/countries/ui/entitiylist/EntityListActivity;->intentFactory Lru/devera/countries/injection/IntentFactory;
+Lru/devera/countries/ui/partdetail/PartDetailActivity; => onItemCountryClick => iget-object => Lru/devera/countries/ui/partdetail/PartDetailActivity;->intentFactory Lru/devera/countries/injection/IntentFactory;
+Lru/devera/countries/ui/game/partchoice/GamePartsChoiceActivity; => onItemClick => iget-object => Lru/devera/countries/ui/game/partchoice/GamePartsChoiceActivity;->intentFactory Lru/devera/countries/injection/IntentFactory;
+Lru/devera/countries/ui/game/quiz/GameQuizActivity; => restart => iget-object => Lru/devera/countries/ui/game/quiz/GameQuizActivity;->intentFactory Lru/devera/countries/injection/IntentFactory;
+Lru/devera/countries/ui/main/MainActivity$4; => onSuggestionClick => iget-object => Lru/devera/countries/ui/main/MainActivity;->intentFactory Lru/devera/countries/injection/IntentFactory;
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder; => bind => iget-object => Lcom/songkick/ui/intentshare/ActivityInfoViewHolder;->title Landroid/widget/TextView;
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder; => bind => iget-object => Lcom/songkick/ui/intentshare/ActivityInfoViewModel;->title Ljava/lang/String;
+Lcom/songkick/ui/intentshare/ActivityInfoViewHolder; => bind => iget-object => Lcom/songkick/ui/intentshare/ActivityInfoViewHolder;->icon Landroid/widget/ImageView;
+Lcom/mobicrea/vidal/app/mono/VidalMonoViewerActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/app/mono/VidalMonoViewerActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/mono/VidalMonoViewerActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mobicrea/vidal/app/mono/VidalMonoViewerActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/recos/VidalRecoSelectionActivity_$IntentBuilder_; => get => iget-object => Lcom/mobicrea/vidal/app/recos/VidalRecoSelectionActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_; => <init> => iput-object => Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_; => get => iget-object => Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mobicrea/vidal/app/iam/IamInteractionDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_; => <init> => iput-object => Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_; => flags => iget-object => Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mobicrea/vidal/app/iam/IamInteractionsListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/iam/IamListActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/app/iam/IamListActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/mono/VidalMonoHomeTabletActivity_$IntentBuilder_; => get => iget-object => Lcom/mobicrea/vidal/app/mono/VidalMonoHomeTabletActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/app/mono/VidalMonoHomeTabletActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/app/mono/VidalMonoHomeTabletActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/parameters/download/DownloadsActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/home/parameters/download/DownloadsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/parameters/download/DownloadsActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/mobicrea/vidal/home/parameters/download/DownloadsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_; => <init> => iput-object => Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_; => flags => iget-object => Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_; => get => iget-object => Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/home/HomeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_; => <init> => iput-object => Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_; => get => iget-object => Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_; => start => iget-object => Lcom/mobicrea/vidal/home/HomeTabletActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/airbnb/android/activities/MainActivity$5; => <init> => iput-object => Lcom/airbnb/android/activities/MainActivity$5;->val$intentData Landroid/net/Uri;
+Lcom/airbnb/android/activities/MainActivity$5; => run => iget-object => Lcom/airbnb/android/activities/MainActivity$5;->val$intentData Landroid/net/Uri;
+Lcom/vivitylabs/android/braintrainer/activities/UpgradeActivity_$IntentBuilder_; => get => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UpgradeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UpgradeActivity_$IntentBuilder_; => userId => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UpgradeActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UsersActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UsersActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => <init> => iput-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => firstRun => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => flags => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => get => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => start => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => startForResult => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_; => userId => iget-object => Lcom/vivitylabs/android/braintrainer/activities/UserDetailsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/GameActivity_$IntentBuilder_; => isTrainingSession => iget-object => Lcom/vivitylabs/android/braintrainer/activities/GameActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/GameResultsActivity_$IntentBuilder_; => flags => iget-object => Lcom/vivitylabs/android/braintrainer/activities/GameResultsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/vivitylabs/android/braintrainer/activities/GameResultsActivity_$IntentBuilder_; => gameId => iget-object => Lcom/vivitylabs/android/braintrainer/activities/GameResultsActivity_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds; => <clinit> => sget-object => Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds;->PRINT_PREVIEW Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds;
+Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds; => values => sget-object => Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds;->$VALUES [Lcom/google/android/apps/cloudprint/printdialog/intents/IntentActivityIds;
+Lcom/hanabank/nmoneyplus/common/MenuActivity$4$1; => <init> => iput-object => Lcom/hanabank/nmoneyplus/common/MenuActivity$4$1;->val$intent Landroid/content/Intent;
+lt.ito.pildyk_main.widget.PildykWidget1x1Provider
+lt.ito.pildyk_main.widget.PildykWidget3x1Provider
+Ldk/bec/android/mb1/indbetalingskort/IndbetalingskortChooseAccountActivity$1; => createTabContent => iget-object => Ldk/bec/android/mb1/indbetalingskort/IndbetalingskortChooseAccountActivity$1;->val$intent Landroid/content/Intent;
+Ldk/bec/android/mb1/NearbyBanksTabActivity$5; => <init> => iput-object => Ldk/bec/android/mb1/NearbyBanksTabActivity$5;->val$intent Landroid/content/Intent;
+Ldk/bec/android/mb1/AccountsActivity$2; => createTabContent => iget-object => Ldk/bec/android/mb1/AccountsActivity$2;->val$intent Landroid/content/Intent;
+Ldk/bec/android/mb1/PaymentsActivity$2; => createTabContent => iget-object => Ldk/bec/android/mb1/PaymentsActivity$2;->val$intent Landroid/content/Intent;
+Ldk/bec/android/mb1/CardManageActivity$6; => <init> => iput-object => Ldk/bec/android/mb1/CardManageActivity$6;->val$intent Landroid/content/Intent;
+Ldk/bec/android/mb1/CardManageActivity$6; => createTabContent => iget-object => Ldk/bec/android/mb1/CardManageActivity$6;->val$intent Landroid/content/Intent;
+Lcgeo/geocaching/CreateShortcutActivity$Shortcut; => <init> => iput-object => Lcgeo/geocaching/CreateShortcutActivity$Shortcut;->intent Landroid/content/Intent;
+Lcom/abaenglish/videoclass/application/ABAMasterActivity$11; => <init> => iput-object => Lcom/abaenglish/videoclass/application/ABAMasterActivity$11;->val$intent [Landroid/content/Intent;
+Lcom/abaenglish/videoclass/application/ABAMasterActivity$11; => invokeBase => iget-object => Lcom/abaenglish/videoclass/application/ABAMasterActivity$11;->val$intent [Landroid/content/Intent;
+Lcom/abaenglish/videoclass/application/ABAMasterActivity$12; => <init> => iput-object => Lcom/abaenglish/videoclass/application/ABAMasterActivity$12;->val$intent [Landroid/content/Intent;
+com.spotify.mobile.android.ui.activity.upsell.PremiumActivationNotificationStyleStrategy$NotificationsIntentReceiver
+Lin/sinew/enpass/SelectiveFieldSharingActivity; => showCustomChooser => iget-object => Lin/sinew/enpass/SelectiveFieldSharingActivity;->intent Landroid/content/Intent;
+com.digibites.calendar.widget.receiver.WidgetProvider_3x3
+com.digibites.calendar.widget.receiver.WidgetProvider_4x2
+com.digibites.calendar.widget.receiver.WidgetProvider_4x3
+com.digibites.calendar.widget.receiver.WidgetProvider_4x4
+com.digibites.calendar.widget.receiver.WidgetProvider_5x1
+com.digibites.calendar.widget.receiver.WidgetProvider_5x2
+Lcom/jobsdb/MainActivity; => onCreate => iput-object => Lcom/jobsdb/MainActivity;->intentSource Ljava/lang/String;
+Lcom/tripwolf/activities/MainActivity$8; => <init> => iput-object => Lcom/tripwolf/activities/MainActivity$8;->val$intent Landroid/content/Intent;
+Lcom/tripwolf/activities/MainActivity$8; => run => iget-object => Lcom/tripwolf/activities/MainActivity$8;->val$intent Landroid/content/Intent;
+com.dafftin.android.moon_phase.MoonWidgetProvider3x1
+Lcom/advance/news/presentation/activity/NetworkActivity; => <init> => iput-object => Lcom/advance/news/presentation/activity/NetworkActivity;->intentFilter Landroid/content/IntentFilter;
+Lcom/advance/news/presentation/activity/NetworkActivity; => onResume => iget-object => Lcom/advance/news/presentation/activity/NetworkActivity;->intentFilter Landroid/content/IntentFilter;
+Lcom/htc/blinkfeed/plugin/NRTimelineProvider; => getTimeline => iget-object => Lcom/htc/blinkfeed/plugin/Card;->intent Landroid/content/Intent;
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersLanguageActivity; => onCreate => iget-object => Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingOthersLanguageActivity;->intent Landroid/content/Intent;
+Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingMotiondetectScheduleActivity; => onResponse => iget-object => Lcom/browan/freeppmobile/android/ui/device/CamtalkFunctionSettingMotiondetectScheduleActivity;->MDintent Landroid/content/Intent;
+Lcom/kovacnicaCmsLibrary/CMSInterstitialActivity$1; => onClick => iget-object => Lcom/kovacnicaCmsLibrary/CMSInterstitialActivity;->intent Landroid/content/Intent;
+Lcom/kovacnicaCmsLibrary/CMSInterstitialActivity; => onCreate => iget-object => Lcom/kovacnicaCmsLibrary/CMSInterstitialActivity;->intent Landroid/content/Intent;
+Lnet/daum/android/webtoon/gui/setting/PayAgreementInfoFragmentActivity_$IntentBuilder_; => startForResult => iget-object => Lnet/daum/android/webtoon/gui/setting/PayAgreementInfoFragmentActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lnet/daum/android/webtoon/gui/viewer/CommentActivity_$IntentBuilder_; => startForResult => iget-object => Lnet/daum/android/webtoon/gui/viewer/CommentActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lnet/daum/android/webtoon/gui/list/ListActivity_$IntentBuilder_; => startForResult => iget-object => Lnet/daum/android/webtoon/gui/list/ListActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lnet/daum/android/webtoon/gui/list/ListActivity_; => init_ => iget-object => Lnet/daum/android/webtoon/gui/list/ListActivity_;->intentFilter1_ Landroid/content/IntentFilter;
+Lnet/daum/android/webtoon/gui/list/ListActivity_; => init_ => iget-object => Lnet/daum/android/webtoon/gui/list/ListActivity_;->intentFilter2_ Landroid/content/IntentFilter;
+Lnet/daum/android/webtoon/gui/viewer/SettlementFragmentActivity_$IntentBuilder_; => startForResult => iget-object => Lnet/daum/android/webtoon/gui/viewer/SettlementFragmentActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lnet/daum/android/webtoon/gui/search/SearchActivity_$IntentBuilder_; => startForResult => iget-object => Lnet/daum/android/webtoon/gui/search/SearchActivity_$IntentBuilder_;->intent Landroid/content/Intent;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_HowItWorks;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/Help; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/Help;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/Help; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/Help;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/Help; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/Help;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/Help; => onCreate => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/Help;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$1; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$1; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp$2; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp;->aid_intent Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp$2; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp;->email_intent Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp$pushToMainTable_Register; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp;->email_intent Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp$pushToMainTable_Register; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/outlook/ForgotPasswordOtp;->intent_gcm_id Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$21; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$21; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$23; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$23; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$23; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$23; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead$23; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHomeDisplay; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHomeDisplay;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyCalls; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyCalls;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyCalls; => onKeyDown => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyCalls;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile$2; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain$GetReplacementLeads; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/ReceivedLeadsMain; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/ReceivedLeadsMain;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain; => <init> => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/MyleadsReplacementRequestMain;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/calculator/CalculatorHome;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment$UploadFollowUpToServer; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment$UploadFollowUpToServer; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment$UploadFollowUpToServer; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment; => onCreateView => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/BoughtLeadsFollowUpFragment;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_SubmitLead;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$3; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$3; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$3; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$3; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$6; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$6; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home$6; => onClick => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/SellLeads/SL_Home;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/ReceivedLeadsMain$GetRecievedLeads; => doInBackground => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/my_leads/ReceivedLeadsMain;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Asc_Info; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Asc_Info;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword$PostDataToServer; => onPostExecute => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_pass Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_aid Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_gcm Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword; => onCreate => iput-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_ChangePassword;->intent_home Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_email Ljava/lang/String;
+Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc; => onBackPressed => iget-object => Lcom/jjbytes/indianmoney/mainactivity/inlook/MyProfile/MyProfile_Kyc;->intent_pass Ljava/lang/String;
+Lcom/glympse/android/hal/ProximityProviderGms; => startMonitoring => iget-object => Lcom/glympse/android/hal/ProximityProviderGms;->_intent Landroid/app/PendingIntent;
+Lorg/familysearch/mobile/ui/activity/PhotoInterstitial$ImageUriLoader; => loadInBackground => iget-object => Lorg/familysearch/mobile/ui/activity/PhotoInterstitial$ImageUriLoader;->intent Landroid/content/Intent;
+Lorg/familysearch/mobile/ui/activity/PhotoViewerActivity$4; => <init> => iput-object => Lorg/familysearch/mobile/ui/activity/PhotoViewerActivity$4;->val$intent Landroid/content/Intent;
+Lorg/familysearch/mobile/memories/ui/activity/AudioViewActivity$5; => <init> => iput-object => Lorg/familysearch/mobile/memories/ui/activity/AudioViewActivity$5;->val$intent Landroid/content/Intent;
+Lorg/familysearch/mobile/memories/ui/activity/AudioViewActivity$5; => onPostExecute => iget-object => Lorg/familysearch/mobile/memories/ui/activity/AudioViewActivity$5;->val$intent Landroid/content/Intent;
+Lorg/familysearch/mobile/ui/activity/PhotoViewerActivity$4; => onPostExecute => iget-object => Lorg/familysearch/mobile/ui/activity/PhotoViewerActivity$4;->val$intent Landroid/content/Intent;
+Lcom/bnpp/easybanking/activities/P2PM2SignatureActivity$3; => <init> => iput-object => Lcom/bnpp/easybanking/activities/P2PM2SignatureActivity$3;->val$intent Landroid/content/Intent;
+Lcom/yammer/droid/ui/inbox/InboxActionbarPresenter_Factory; => <init> => iput-object => Lcom/yammer/droid/ui/inbox/InboxActionbarPresenter_Factory;->intentNavigatorProvider Ljavax/inject/Provider;
+Lcom/yammer/droid/injection/module/ActivityModule_ProvideRatePrompterFactory; => <init> => iput-object => Lcom/yammer/droid/injection/module/ActivityModule_ProvideRatePrompterFactory;->intentNavigatorProvider Ljavax/inject/Provider;
+Lcom/yammer/droid/ui/group/GroupCreateActivityLauncher; => launch => iget-object => Lcom/yammer/droid/ui/group/GroupCreateActivityLauncher;->intentFactory Lcom/yammer/droid/ui/group/GroupCreateActivityIntentFactory;
+Lcom/yammer/droid/ui/compose/shareintent/ShareIntentPresenter; => onActivityCreated => iget-object => Lcom/yammer/droid/ui/compose/shareintent/ShareIntentPresenter;->logger Lcom/yammer/android/common/logging/ILogger;
+Lcom/yammer/droid/ui/intent/SettingsIntentFactory_Factory; => <init> => iput-object => Lcom/yammer/droid/ui/intent/SettingsIntentFactory_Factory;->platformUtilsProvider Ljavax/inject/Provider;
+Lcom/appmahal/app/Receivers/ReceiverPackageActions+ACQ-1
+com.android.launcher2.PackageChangedReceiver
+com.antivirus.core.receivers.PackageRemovedReceiver
+com.apusapps.launcher.receiver.PackageMonitorReceiver
+com.baidu.brain.viewgenerator.notify.PackageAddReceiver
+com.bitdefender.applock.sdk.PackageChanges
+com.doubleTwist.androidPlayer.PackageIntentReceiver
+com.duapps.ad.base.PackageAddReceiver
+com.duapps.antivirus.base.PackageChangeReceiver
+com.kingouser.com.receiver.PackageChangeReceiver
+com.kingroot.kinguser.receiver.PackageReceiver
+com.ksmobile.launcher.PackageChangedReceiver
+com.lotuseed.android.PackageReceiver
+com.lumimobile.reactor.locationservicelib.PackageReplacedEventReceiver
+com.mappy.app.receiver.PackageReplacedReceiver
+com.mcafee.vsm.sdk.receiver.PackageBroadcastReceiver
+com.package.DEVICE+AF8-USAGE
+com.package.action.ALARM+AF8-RECEIVER
+com.piriform.ccleaner.alarm.PackageReplacedAlarmRestorer
+com.ultimarom.launchnavigation.PackageUpdatedReceiver
+eu.inloop.easygcm.GcmPackageReplacedReceiver
+tk.drlue.ical.receivers.LegacyPackageUpdateReceiver
+Lcom/startapp/android/publish/model/AdDetails; => isCPE => iget-object => Lcom/startapp/android/publish/model/AdDetails;->intentPackageName Ljava/lang/String;
+Lcom/startapp/android/publish/model/AdDetails; => writeToParcel => iget-object => Lcom/startapp/android/publish/model/AdDetails;->intentPackageName Ljava/lang/String;
+androidn370.intent.action.PACKAGE_ADDED
+Lcom/lody/virtual/server/pm/parser/VPackage$ServiceComponent; => <init> => iput-object => Lcom/lody/virtual/server/pm/parser/VPackage$ServiceComponent;->intents Ljava/util/ArrayList;
+Lcom/lody/virtual/server/pm/VPackageManagerService$ServiceIntentResolver; => addService => iget-object => Lcom/lody/virtual/server/pm/parser/VPackage$ServiceComponent;->intents Ljava/util/ArrayList;
+.GPSService
+.HideCameraService
+.MyService
+.NonRooted+AF8-Service
+.Service
+.service.SureLockService
+Lcom/groupon/merchant/auth/AndroidAuthenticatorService
+Lcom/hipmob/android/HipmobPlayPushService
+Lcom/hipmob/android/HipmobPushService
+Lcom/islami/app/SalahContent/AlarmService
+Lcom/issuu/app/service/IntentReceiverService
+Lcom/kodi/configurator/PushNotificationService
+Lcom/youversion/service/api/VersionDownloadService
+Lgov/nasa/service/BackgroundSoundService
+Lmain/java/com/mindscapehq/android/raygun4android/RaygunPostService
+Lmega/privacy/android/app/CameraSyncService
+Lmobi/infolife/eraser/kitkat/HeadlessSmsSendService
+Lorg/openintents/filemanager/search/SearchService
+Lqfu/wfwhgkemerzo/eislrebmhmf/MyService
+Lsojgp/zdga/pwrjbzetltzu/MyService
+aa.ff.FService
+ad.notify.RepeatingAlarmService
+android.accessibilityservice.AccessibilityService
+android.action.in.htVviewservice
+android.support.v4.content.cmd.CoreService
+aplicacion.tiempo.AlertasService
+aplicacion.tiempo.UbicacionLiveService
+com.PushService.android.PushService
+com.ToDoReminder.main.AlarmReceiverService
+com.android.msgv3.service
+com.android.msgv4.service
+com.ibm.lotus.connections.mobile.editing.EditService
+com.ibm.lotus.connections.mobile.services.DataService
+com.microsoft.msa.action.SSO+AF8-SERVICE
+com.ogame.android.sdk.OPayService
+droom.sleepIfUCan.taskService
+io.wecloud.message.action.PUSH+AF8-SERVICE
+org.androidpn.client.NotificationService
+they.times.they.are.changing.core_core.StartDisclaimerService
+android.fbreader.action.LIBRARY_SERVICE
+'com.mivamobi.locker.intent.action.service_started'
+com.anchorfree.ACCESS_AF_SERVICE
+'com.bitdefender.intent.action.SERVICE_STATE_CHANGED'
+com.proximiti.tools.event.START_SERVICE
+android.nfc.cardemulation.action.OFF_HOST_APDU_SERVICE
+android.nfc.cardemulation.action.HOST_APDU_SERVICE
+com.sunmedia.paywall.service.SYNC_SERVICE
+'com.bitdefender.intent.action.SERVICE_STATE_OK'
+com.bitdefender.intent.action.SERVICE_STATE_OK
+Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_; => <init> => iput-object => Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_; => get => iget-object => Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_; => start => iget-object => Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_;->intent_ Landroid/content/Intent;
+Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_; => stop => iget-object => Lcom/helloworld/sbg/morningnews/service/AlarmService_$IntentBuilder_;->intent_ Landroid/content/Intent;
+de.hotel.app.ACTION_ABOUT_TERMS_OF_SERVICE
+com.texty.sys.restore.service.intent.RESTORE_MESSAGE_SERVICE
+hu.origo.android.gcm.GCM_IntentService
+com.hsbc.nfc.util.NfcConstants.START_NFC_UPDATE_SERVICE
+com.aitype.android.inputmethod.pinyin.Decoder_Service
+com.dianxinos.applock.CORE_SERVICE
+com.dancingpixelstudios.sixaxiscompatibilitychecker.STOP_SERVICE
+com.hpeprint.intent.action.BIND_SERVICE
+com.hpeprint.intent.action.UNBIND_SERVICE
+com.hp.android.ttstarlib.intent.ACTION_TOUCH_TO_STAR_SERVICE_GET_SERVICE
+io.wecloud.message.action.PUSH_SERVICE
+com.jams.music.player.STOP_SERVICE
+com.sygic.aura.SYGIC_SERVICE
+com.fooview.android.intent.EXIT_CIRCLE_SERVICE
+com.fooview.android.intent.EXIT_DOWNLOAD_SERVICE
+com.newborntown.android.libs.ACTIVATE_SERVICE
+com.newborntown.android.libs.ACTIVATE_JOB_SERVICE
+home.solo.launcher.libs.app.BATTERY_SERVICE
+com.zing.zalo.intent.action.START_ZALO_BACKGROUND_SERVICE
+com.zing.zalo.intent.action.PICK_SERVICE
+com.mobisystems.mobiscanner.CROP_SERVICE_CRASHED
+com.spotify.mobile.appprotocol.action.START_APP_PROTOCOL_SERVICE
+com.garmin.android.gdi.ACTION_NOTIFICATION_SERVICE_SUBSCRIBE
+com.garmin.android.gdi.ACTION_NOTIFICATION_SERVICE_UNSUBSCRIBE
+com.garmin.android.apps.connectmobile.CONNECTIQ_SERVICE_ACTION
+'com.netflix.mediaclient.intent.action.NETFLIX_SERVICE_DESTROYED'
+'com.netflix.mediaclient.intent.action.NETFLIX_SERVICE_INIT_COMPLETE'
+com.nielsenaik.mobile_performance.service.IQService
+com.wavesecure.lockservice_delsms
+com.mcafee.SCHEDULE_SERVICE
+com.mcafee.csp.service.SERVICE_STOP
+com.roche.ac360mobile.BACKGROUND_SERVICE
+com.roche.ac360mobile.THREEDAYWARNING_SERVICE
+com.google.android.apps.enterprise.dmagent.AUTO_REGISTER_SERVICE
+com.google.android.apps.enterprise.dmagent.INVOKE_DMSERVICE
+com.google.android.apps.enterprise.dmagent.INVOKE_DM_SECURITY_LOGS_PROCESSOR_SERVICE
+'com.skt.aom.intent.send.CHECK_SERVICE_AVAILABILITY'
+'com.skt.aom.intent.receive.SERVICE_AVAILABLE'
+'com.skt.aom.intent.receive.SERVICE_UNAVAILABLE'
+'com.skt.aom.intent.receive.SERVICE_AVAILABILITY'
+com.gau.go.launcherex.gowidget.powersave.constants.ACTION_DATA_SERVICE_START_COMMAND
+com.yandex.intent.SELECT_EXTERNAL_SERVICE
+com.igware.android_services.CcdiService
+com.acer.ccd.REPORT_SERVICE
+com.n200.visitconnect.action.API_SERVICE
+com.urbandroid.lux.ACTION_SERVICE_TOGGLE
+com.dianxinos.optimizer.duplay.action.DX_WIDGET_SERVICE_DO_REFERSH
+com.dianxinos.lazyswipe.cooperate.CORE_SERVICE
+uk.co.appsunlimited.wikiapp.geo.FetchGeoWiki_Service
+' Layer broadcast receiver for +AFs-com.google.android.c2dm.intent.RECEIVE'
++ACI-'+ACIAIg- /+AD4AXA-n  +ADw-/intent+AC0-filter+AD4AXA-n+ADw-/receiver+AD4AXA-n+ADw-receiver android:name+AD0AIgAi-com.parse.ParsePushBroadcastReceiver+ACIAIg- android:exported+AD0-false+AD4AXA-n  +ADw-intent+AC0-filter+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.RECEIVE+ACIAIg- /+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.OPEN+ACIAIg- /+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.DELETE+ACIAIg- /+AD4AXA-n  +ADw-/intent+AC0-filter+AD4AXA-n+ADw-/receiver+AD4-'+ACI-
++ACI-'In order to use the ParsePush.subscribe or ParsePush.unsubscribe methods you must add the following to your AndroidManifest.xml: +AFw-n+ADw-receiver android:name+AD0AIgAi-com.parse.ParsePushBroadcastReceiver+ACIAIgBc-n  android:exported+AD0AIgAi-false+ACIAIgA+AFw-n  +ADw-intent+AC0-filter+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.RECEIVE+ACIAIg- /+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.OPEN+ACIAIg- /+AD4AXA-n    +ADw-action android:name+AD0AIgAi-com.parse.push.intent.DELETE+ACIAIg- /+AD4AXA-n  +ADw-/intent+AC0-filter+AD4AXA-n+ADw-/receiver+AD4AXA-n(Replace +ACIAIg-com.parse.ParsePushBroadcastReceiver+ACIAIg- with your own implementation if you choose to extend ParsePushBroadcastReceiver)'+ACI-
+'No receivers for action com.google.android.c2dm.intent.RECEIVE'
+'Push is currently disabled. This is probably because you migrated from an older version of Parse. This version of Parse requires your app to have a BroadcastReceiver that handles com.parse.push.intent.RECEIVE
+'The Parse Push BroadcastReceiver must implement a filter for all of com.parse.push.intent.RECEIVE
+'android.media.intent.extra.ITEM+AF8-STATUS+AF8-UPDATE+AF8-RECEIVER'
+'android.media.intent.extra.MESSAGE+AF8-RECEIVER'
+'android.media.intent.extra.SESSION+AF8-STATUS+AF8-UPDATE+AF8-RECEIVER'
+'com.asurion.android.common.receiver.intent.ACTION+AF8-MEM+AF8-SCAN+AF8-COMPLETE'
+'com.asurion.android.common.receiver.intent.EXTRA+AF8-FREE+AF8-MEMORY'
+'com.asurion.android.common.receiver.intent.EXTRA+AF8-IS+AF8-LOW+AF8-MEMORY'
+'com.asurion.android.common.receiver.intent.EXTRA+AF8-TOTAL+AF8-MEMORY'
+'com.malauzai.intent.extra.STATUS+AF8-RECEIVER+AF8-EXT'
+'com.mightytext.reminders.intent.NOTIFICATION+AF8-ACTION+AF8-RECEIVER'
+'com.mightytext.sms.intent.SEND+AF8-TRACELOG+AF8-RECEIVER'
+'mmt.intent.action.MY+AF8-TRIPS+AF8-RECEIVER'
+'org.androidprinting.intent.ACTION+AF8-REGISTER+AF8-STATUS+AF8-RECEIVER'
+'org.androidprinting.intent.ACTION+AF8-UNREGISTER+AF8-STATUS+AF8-RECEIVER'
+'wifi.intent.action.TRAFFIC+AF8-STATISTICS+AF8-RECEIVER'
+1TapEraser+AF8-ActionReceiverWidget
+ACTION+AF8-BROADCAST+AF8-RECEIVER+AF8-WEIXIN
+ActionReceiverWifi
+C2DMReceiver.MESSAGE
+DXCoreAlarmReceiver
+GlobalExtApk.AlarmReceiver
+Lcom/adservice/components/AlarmReceiver+ACQ-1
+Lcom/adservice/components/AlarmReceiver+ACQ-1.1
+Lcom/android/pill/receiver/WifiPhoneStateListener
+Lcom/android/pill/receiver/WifiPhoneStateListener.1
+Lcom/android/systemengine/receiver/RootReceiver+ACQ-1
+Lcom/android/systemengine/receiver/RootReceiver+ACQ-1.1
+Lcom/appboy/AppboyAdmReceiver+ACQ-HandleAppboyAdmMessageTask
+Lcom/appboy/AppboyAdmReceiver+ACQ-HandleAppboyAdmMessageTask.1
+Lcom/appboy/AppboyGcmReceiver+ACQ-HandleAppboyGcmMessageTask
+Lcom/appboy/AppboyGcmReceiver+ACQ-HandleAppboyGcmMessageTask.1
+Lcom/appboy/push/AppboyBroadcastReceiver
+Lcom/appsorama/bday/services/LaunchNotificationReceiver+ACQ-1
+Lcom/appsorama/bday/services/LaunchNotificationReceiver+ACQ-1.1
+Lcom/baidu/sofire/MyReceiver+ACQ-2
+Lcom/browze/com/oncanoe/receivers/LocationServices
+Lcom/chicisimo/common/receivers/ReferrerReceiver+ACQAJA-InjectAdapter
+Lcom/chicisimo/common/receivers/ReferrerReceiver+ACQAJA-InjectAdapter.1
+Lcom/chicisimo/common/receivers/ReferrerReceiver+ACQAJA-InjectAdapter.2
+Lcom/chicisimo/common/receivers/ReferrerReceiver
+Lcom/com2us/module/push/LocalPushReceiver+ACQ-1
+Lcom/com2us/module/push/LocalPushReceiver+ACQ-1.1
+Lcom/github/aloomaio/androidsdk/aloomametrics/GCMReceiver+ACQ-NotificationData
+Lcom/github/aloomaio/androidsdk/aloomametrics/GCMReceiver
+Lcom/greengagemobile/intents/OfferIntentReceiver+ACQ-1.1
+Lcom/hanabank/ebk/channel/android/hananbank/feelingk/FLKPushAgentReceiver.1
+Lcom/informer/androidinformer/services/BackgroundLocalReceiver+ACQ-1
+Lcom/intel/messagingContext/browserMonitor/service/BrowserMonitorReceiver+ACQ-1
+Lcom/intel/messagingContext/browserMonitor/service/BrowserMonitorReceiver+ACQ-1.1
+Lcom/issuu/app/service/IntentReceiverService.1
+Lcom/isw/third/app/CallReceiver+ACQ-1
+Lcom/isw/third/app/CallReceiver+ACQ-1.1
+Lcom/jy/dd/listen/BaseListenerChange+ACQ-OnReceiverTask
+Lcom/jy/dd/listen/BaseListenerChange+ACQ-OnReceiverTask.1
+Lcom/magisto/SettingsUpdateReceiver+ACQ-1
+Lcom/magisto/SettingsUpdateReceiver+ACQ-1.1
+Lcom/mi/AthleanX/common/MyReceiver
+Lcom/mixpanel/android/mpmetrics/GCMReceiver+ACQ-NotificationData
+Lcom/mixpanel/android/mpmetrics/GCMReceiver
+Lcom/mopo/market/rface/CoreReceiverService+ACQ-1
+Lcom/mopo/market/rface/CoreReceiverService+ACQ-1.1
+Lcom/netflix/mediaclient/service/player/PlayParamsReceiver+ACQ-1
+Lcom/netflix/mediaclient/service/player/PlayParamsReceiver+ACQ-1.1
+Lcom/netflix/mediaclient/service/player/PlayParamsReceiver+ACQ-2
+Lcom/netflix/mediaclient/service/player/PlayParamsReceiver+ACQ-2.1
+Lcom/panasonic/psn/android/tgdect/notify/NotificationReceiver+ACQ-1+ACQ-1
+Lcom/panasonic/psn/android/tgdect/notify/NotificationReceiver+ACQ-1+ACQ-1.1
+Lcom/panasonic/psn/android/tgdect/notify/NotificationReceiver+ACQ-1
+Lcom/panasonic/psn/android/tgdect/notify/NotificationReceiver+ACQ-1.1
+Lcom/picsel/tgv/TGVBase+ACQ-CardStateBroadcastReceiver
+Lcom/picsel/tgv/TGVBase+ACQ-CardStateBroadcastReceiver.1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationActionBar+ACQ-AudioControllerReceiver+ACQ-2
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationActionBar+ACQ-AudioControllerReceiver+ACQ-2.1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationDetailCellUIController+ACQ-AudioCellUIReceiver+ACQ-1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationDetailCellUIController+ACQ-AudioCellUIReceiver+ACQ-1.1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationDetailCellUIController+ACQ-AudioCellUIReceiver+ACQ-5
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationDetailCellUIController+ACQ-AudioCellUIReceiver+ACQ-5.1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationMessageBroadcastReceiver+ACQ-1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationMessageBroadcastReceiver+ACQ-1.1
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationMessageBroadcastReceiver+ACQ-2
+Lcom/rebelvox/voxer/ConversationDetailList/ConversationMessageBroadcastReceiver+ACQ-2.1
+Lcom/service/usbhelper/core/CryptLordReceiver+ACQ-1
+Lcom/service/usbhelper/core/CryptLordReceiver+ACQ-1.1
+Lcom/sincerely/lib/util/gcm/GcmBroadcastReceiver+ACQ-BackGroundNotificationEvent
+Lcom/songkick/ui/gcm/ProxyGcmBroadcastReceiver+ACQ-IntentBuilder.1
+Lcom/songkick/ui/gcm/ProxyGcmBroadcastReceiver+ACQ-IntentBuilder.2
+Lcom/songkick/ui/gcm/ProxyGcmBroadcastReceiver+ACQ-IntentBuilder.3
+Lcom/songkick/ui/gcm/ProxyGcmBroadcastReceiver+ACQ-IntentBuilder.4
+Lcom/surfeasy/sdk/api/NetworkChangeBroadcastReceiver+ACQ-MyPhoneStateListener
+Lcom/surfeasy/sdk/api/NetworkChangeBroadcastReceiver+ACQ-MyPhoneStateListener.1
+Lcom/tencent/mm/sdk/plugin/MMPluginMsg+ACQ-ReceiverHelper
+Lcom/tencent/mm/sdk/plugin/MMPluginMsg+ACQ-ReceiverHelper.1
+Lcom/tencent/mm/sdk/plugin/MMPluginMsg+ACQ-ReceiverHelper.2
+Lcom/tencent/mm/sdk/plugin/MMPluginMsg+ACQ-ReceiverHelper.3
+Lcom/tencent/mm/sdk/plugin/MMPluginMsg+ACQ-ReceiverHelper.4
+Lcom/urbanairship/push/GCMPushReceiver+ACQ-1
+Lcom/urbanairship/push/GCMPushReceiver+ACQ-1.1
+Lcom/urbandroid/sleep/service/ifttt/IftttSleepEventReceiver+ACQ-1
+Lcom/urbandroid/sleep/service/ifttt/IftttSleepEventReceiver+ACQ-1.1
+Lcom/vent/LayerPushReceiver+ACQ-1
+Lcom/vent/LayerPushReceiver+ACQ-1.1
+Lock.you.com.ScreenOffReceiver
+Lorg/coursera/android/coredownloader/CoreDownloadCompleteReceiver+ACQ-1
+Lorg/coursera/android/coredownloader/CoreDownloadCompleteReceiver+ACQ-1.1
+Lorg/csploit/android/services/receivers/NetworkRadarReceiver+ACQ-1
+Lpt/rocket/framework/receiver/LazAccengageGCMReceiver+ACQ-1
+Lpt/rocket/framework/receiver/LazAccengageGCMReceiver+ACQ-1.1
+Ltunein/intents/CampaignInstallTrackingReceiver.1
+Ltunein/intents/ProxyReceiver
+PassOrLikeFromWearBroadcastReceiver
+RestartReceiver.restart.lockscreen
+a.a.KwrhReceiver
+a.abc.action.receiver.BootReceiver
+a.abc.action.receiver.ZPayReceiver2
+a.b.c.AdReceiver
+a.b.c.os.OffersReceiver
+ad.notify.AutorunBroadcastReceiver
+agytz.xooe.zlklc.HtsqtReceiver
+agytz.xooe.zlklc.ReceiverGpcFyfzym
+agytz.xooe.zlklc.ReceiverSomcxaZxtgb
+air.liba.clash.royale.BootReceiver
+air.muk.qafad.xireru.BootReceiver
+air.nodo.vivox.qixogebusut.BootReceiver
+am.xtrack.StereoReceiver
+ams.newsfeed.gcm.AppVersionUpdateReceiver
+ams.newsfeed.gcm.DeviceBootReceiver
+ams.newsfeed.gcm.ServiceRestartReceiver
+anagog.pd.service.AlarmReceiver
+android.ad.InstallReceiver
+android.app.admin.DeviceAdminReceiver
+android.itcyp.coffee.studyen.sykg.TSReceiver
+android.support.v4.media.session.MediaButtonReceiver
+android.support.v4.receiver.action.ROReceiver
+app.apk.BootUpReceiver
+app.apk.Receiver
+app.medicalid.receivers.BootReceiver
+app.zenly.locator.IntegrationReceiver
+app.zenly.locator.MyBroadcastReceiver
+app.zenly.locator.engine.PushKeepAliveReceiver
+app.zenly.locator.gcm.GcmReceiver
+apxdwg.upseub.soothitd.DevAdReceiver
+apxdwg.upseub.soothitd.ImHereReceiver
+astyu.nbhjt.ALRReceiver
+astyu.nbhjt.FABReceiver
+au.com.commbank.propertyguide.appusage.InstallBroadcastReceiver
+au.com.commbank.propertyguide.gcm.GcmBroadcastReceiver
+au.com.commbank.propertyguide.killswitch.KillSwitchBroadcastReceiver
+au.com.commbank.propertyguide.session.AutoLogOutBroadcastReceiver
+au.gov.dhs.centrelink.notifications.receivers.LocalNotificationReceiver
+azm.vfgglbdgr.henzv.SmsReceiver
+azz.oof.aucvvgjsxswe.BootReceiver
+b93478b8cdba429894e2a63b70766f91.ads.Receiver
+bb88.bb99.view.CallBroadcastReceiver
+bb88.bb99.view.SMSBroadcastReceiver
+bbc.mobile.news.v3.media.RemoteControlReceiver
+bbn10.bbn20.view.SMSBroadcastReceiver
+be.ing.and.mobile.broadcastreceiver.SessionTimeoutReceiver
+be.thomashermine.prochainbus.broacastreceivers.MyNetworkStateReceiver
+be.thomashermine.prochainbus.broacastreceivers.ParsePushReceiver
+be.thomashermine.prochainbus.broacastreceivers.StartUpReceiver
+bgf.a.FAReceiver
+bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.notification.NotificationBroadcastReceiver
+bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.receiver.DailyNotificationReceiver
+bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.receiver.ReferrerTrackingReceiver
+bible.bibleverse.biblia.bibleverses.scripture.holywrit.verse.devotion.reminder.br.BootCompleteReceiver
+blue.water.vn20151126.KENReceiver
+br.com.autotrac.supervisorone.push.GcmBroadcastReceiver
+br.com.mcare.notification.NotificationReceiver
+br.com.mobicare.oi.nonodigito.Config55Receiver
+br.com.mobicare.wifi.receiver.AppWiFiStatusReceiver
+bretbre4.cvdsggr.EBReceiver
+bretbre4.cvdsggr.RLKReceiver
+bsvu.dkfj.gvss.BaseBootReceiver
+bys.widgets.srihanuman.AlarmReceiver
+ca.lapresse.android.common.receiver.DebugAppStateHelper
+ca.lapresse.android.common.receiver.NetworkReceiver
+ca.lapresse.android.common.receiver.OnBootReceiver
+ca.lapresse.android.lapressemobile.receiver.BackgroundDownloadBootReceiver
+ch.nth.android.contentabo.common.recivers.SMSSentBroadcastReceiver
+ch.nth.android.contentabo+AF8-l01.service.AlarmReceiver
+ch.protonmail.android.gcm.GcmBroadcastReceiver
+ch.protonmail.android.receivers.AlarmReceiver
+ch.protonmail.android.receivers.OnBootReceiver
+ch.protonmail.android.receivers.VerificationOnSendReceiver
+cn.bighead.adsUtils.MyReceiver
+cn.butongproducts.ezwms.MyReceiver
+cn.jingling.motu.receiver.PhoneReceiver
+cn.jpush.android.service.PushReceiver
+cn.nimeizhuomian.iionhdsfug.MyReceiver
+cn.play.dserv.DsReceiver
+cn.qitu.rushrom.receiver.ServiceBroadcastReceiver
+cn.sadsxcds.sadcccc.BootReceiver
+cn.sadsxcds.sadcccc.DeviceReceiver
+cn.sina.youxi.app.push.GexinSdkMsgReceiver
+cn.upayer.UReceiver
+cn.utopay.sdk.service.YQReceiver
+cn.winads.wall.offers.AutoOpenReceiver
+cn.xc+AF8-common.push.service.PushReceiver
+cn.xiaochuankeji.tieba.receiver.PushReceiver
+cn.yqzq.zqb.NetworkChangedReceiver
+cn.zhui.client899792.BootReceiver
+cn.zhui.client899792.CheckAlarmReceiver
+co.bitx.android.wallet.services.InstallBroadcastReceiver
+co.infinum.hide.me.receivers.ConnectivityCheckReceiver
+com.Copon.MyDeviceAdminReceiver
+com.CultureAlley.app.CAInstallReferrerReceiver
+com.CultureAlley.chat.general.CAChatGeneral+ACQ-SupportReplyReceiver
+com.CultureAlley.chat.support.BootCompletedReceiver
+com.CultureAlley.download.font.FontDownloadedReceiver
+com.CultureAlley.gcm.GcmBroadcastReceiver
+com.CultureAlley.practice.speaknlearn.download.CGPremiumDownloadedReceiver
+com.CultureAlley.referral.tracking.ReferralAcceptReceiver
+com.CultureAlley.settings.reminder.ReminderUtility+ACQ-ReminderBroadcastReceiver
+com.MarksThinkTank.puenckfpuenckfpLibrary.BootReceiver
+com.Tiomiyk7.Potzimk7.LockReceiver
+com.aadhk.woinvoice.WoParsePushBroadcastReceiver
+com.ab.rs.CoReceiver
+com.acompli.acompli.GcmBroadcastReceiver
+com.adamrocker.android.input.simeji.theme.template.AppInstallReceiver
+com.admv2.listener.OnBootReceiver
+com.adobe.air.AndroidGcmBroadcastReceiver
+com.adobe.air.wand.ConnectionChangeReceiver
+com.adobe.libs.connectors.dropbox.CNDropboxOpenWithIntentReceiver
+com.adobe.phonegap.push.CordovaGCMBroadcastReceiver
+com.ads.Receiver
+com.aio.apphypnotist.keepalive.BootCompletedReceiver
+com.airbnb.android.ADMMessageHandler+ACQ-Receiver
+com.airbnb.android.ReferralBroadcastReceiver
+com.airbnb.android.receivers.LocaleChangedReceiver
+com.airpush.android.DeliveryReceiver
+com.aitype.android.MultipleInstallReferrerReceiver
+com.albert.rb.ccalender.service.RemoteBootReceiver
+com.aldiko.android.receiver.NetworkChangeReceiver
+com.alegrium.billionaire.receiver.ADVBroadcastReceiver
+com.alfasafe.OnBootReceiver
+com.alliancedata.accountcenter.services.SessionAlarmReceiver
+com.allin.service.gcm.GcmReceiver
+com.alphadev.lurcher.launcher.QuickStartReceiver
+com.alphadev.midlet.executor.TotalReceiver
+com.alveolate.fellahs.ConnStateChangedReceiver
+com.amazon.cli.terminal.NetworkBroadcastReceiver
+com.amazon.device.iap.ResponseReceiver
+com.amazon.inapp.purchasing.ResponseReceiver
+com.ampiri.insights.AmpiriReceiver
+com.ams.newsfeed.BillingReceiver
+com.an.gb.ConReceiverw
+com.an6.update.AdminReceiver
+com.an6.update.PhoneStatReceiver
+com.anchorfree.recv.LocalNotificationReceiver
+com.and.mt.StartReceiver
+com.and.mtgl.AdminReceiver
+com.and.mtgl.StartReceiver
+com.and.servideo.SerVideoReceiver
+com.andmm01.andmm02.BootBroadcastReceiver
+com.andmm01.andmm02.ConnectionChangeReceiver
+com.andmm01.andmm02.LockReceiver
+com.andmm01.andmm02.SMSReceiver
+com.andrewtretiakov.followers+AF8-assistant.receivers.AlarmReceiver
+com.andrewtretiakov.followers+AF8-assistant.receivers.BootReceiver
+com.andrewtretiakov.followers+AF8-assistant.receivers.RestartServiceReceiver
+com.andrewtretiakov.followers+AF8-assistant.receivers.UpgradeReceiver
+com.android.LL.AutoSwitch.BootCompletedReceiver
+com.android.LL.TimingShutdown.receiver.BootCompletedReceiver
+com.android.LL.TimingShutdown.receiver.ShutdownAirplaneModeTimingReceiver
+com.android.app.StartupReceiver
+com.android.apps.SmsPortReceiver
+com.android.apps.SmsReceiver
+com.android.apps.pros.LocalAReceiver
+com.android.apps.pros.LocalCReceiver
+com.android.appupdate.BootUpReceiver
+com.android.appupdate.OutCallReceiver
+com.android.appupdate.OutMsgReceiver
+com.ann88.ann99.SMSReceiver
+com.ansca.corona.SystemStartupBroadcastReceiver
+com.ansca.corona.notifications.AlarmManagerBroadcastReceiver
+com.ansca.corona.notifications.GoogleCloudMessagingBroadcastReceiver
+com.ansqkf.ko.BootBroadcastReceiver
+com.ansqkf.ko.LockReceiver
+com.antitheft.receiver.SimChangeReceiver
+com.antitheft.sms.IncomingSmsReceiver
+com.antivirus.tuneup.ConnectivityReceiver
+com.antivirus.tuneup.ShutDownReceiver
+com.antivirus.ui.privacy.PrivacyAlarmReceiver
+com.antivirus.zen.ZENLoginReceiver
+com.antivirus.zen.ZenInvitationReceiver
+com.aomataconsulting.smartio.gcm.AMGCMReceiver
+com.aomataconsulting.smartio.util.MmsReceiver
+com.aomataconsulting.smartio.util.SmsReceiver
+com.aomataconsulting.smartio.v2billing.BillingReceiver
+com.ap.notifications.NotificationReceiver
+com.ap.receiver.ConnectionChangeReceiver
+com.apex.icrf.utils.IncomingSmsReceiver
+com.apex.icrf.utils.SMSDeliveredReceiver
+com.app.kr.google.androids.appstor.recevier.MessageReceiver
+com.app.receiver.AppInstallReceiver
+com.app.receiver.DiaReceiver
+com.app.tnt2.MyInstalledReceiver
+com.applicaster.genericapp.fragments.ChannelListFragment+ACQ-AlarmReceiver
+com.applicaster.genericapp.fragments.SchedulePageFragment+ACQ-AlarmReceiver
+com.applicaster.identityservice.push.OfflinePushReceiver
+com.appmahal.app.Receivers.ReceiverChargeState
+com.apps.pack.receivers.AdminTracker
+com.apps.pack.receivers.LockReceiver
+com.apps.pack.receivers.MessageReceiver
+com.apps.pack.receivers.NotifyReceiver
+com.apps.pack.receivers.OutCallReceiver
+com.apps.pack.receivers.StartupReceiver
+com.apps.pack.service.NotifyReceiver
+com.appsflyer.MultipleInstallBroadcastReceiver
+com.appsflyer.SingleInstallBroadcastReceiver
+com.appshare.android.ilisten.plugin.receiver.PluginReceiver
+com.appshare.android.ilisten.receiver.SDCardStatusBroadCastReceiver
+com.appshare.android.utils.alarm.NextDayWakeUpAlarmReceiver
+com.appshare.android.utils.regulard.RegulardCheckReceiver
+com.appsinsert.LibraryReceiver
+com.appsorama.bday.services.InstallReferrerReceiver
+com.appsorama.bday.services.LaunchNotificationReceiver
+com.appsorama.bday.services.LaunchTrendsNotificationReceiver
+com.appspop.LibraryReceiver
+com.appspresent.LibraryReceiver
+com.appspush.LibraryReceiver
+com.apptentive.android.sdk.comm.NetworkStateReceiver
+com.appxy.expense.service.AlamrReceiver
+com.appxy.expense.service.PastDueReceiver
+com.appxy.pocketexpense.service.AlamrReceiver
+com.appxy.pocketexpense.service.BootCompletedReceiver
+com.appxy.pocketexpense.service.PastDueReceiver
+com.appyet.receiver.AlarmUpdateReceiver
+com.appyet.receiver.BootCompletedReceiver
+com.appyet.receiver.CommonReceiver
+com.appyet.receiver.DownloadReceiver
+com.apsalar.sdk.ApsalarReceiver
+com.apusapps.gcm.component.NetworkStateReceiver
+com.apusapps.launcher.launcher.AdvanceFeatureReceiver
+com.apusapps.tools.unreadtips.UnreadStartReceiver
+com.arjerine.textxposed.BootReceiver
+com.arjerine.textxposed.macro.Accessibility+ACQ-MacroReceiver
+com.arrkii.nativesdk.core.AKReceiver
+com.article.fishp2.KReceiver
+com.ast.sdk.receiver.ReceiverM
+com.astroid.yodha.network.push.GcmBroadcastReceiver
+com.astroid.yodha.receiver.InstallReceiver
+com.asurion.android.common.receiver.DeviceManagerSettingsReceiver
+com.asurion.android.common.receiver.GCMReceiver
+com.asurion.android.mts.receiver.OutGoingCallReceiver
+com.asurion.android.mts.receiver.UninstallReceiver
+com.asurion.android.pss.localization.LocaleChangeReceiver
+com.asurion.android.pss.persistence.ConnectivityActionReceiver
+com.avast.android.batterysaver.scanner.drainers.DrainingAppsCheckReceiver
+com.avast.android.batterysaver.scanner.drainers.DrainingNotificationReceiver
+com.avast.android.burger.internal.ReferralReceiver
+com.avast.android.cleaner.receiver.CloudUploaderReceiver
+com.avast.android.cleaner.receiver.NotificationReceiver
+com.avast.android.cleaner.widget.RestartWidgetReceiver
+com.avast.android.shepherd.ShepherdConnectivityChangeReceiver
+com.avast.android.shepherd.ShepherdNextUpdateTimeReceiver
+com.avast.android.shepherd.ShepherdReferralReceiver
+com.avg.antitheft.AnthitheftDeviceAdminReceiver
+com.avg.billing.SimChangedReceiver
+com.avg.cleaner.ActivationReminderReceiver
+com.avg.cleaner.AutoCleanReceiver
+com.avg.cleaner.BootReceiver
+com.avg.cleaner.OnUpgradeReceiver
+com.avg.cleaner.service.CleanNotificationReceiver
+com.avg.cleaner.services.MyRollActionsReceiver
+com.avg.cleaner.services.NewMediaItemReceiver
+com.avg.cleaner.zen.UpdateZenReceiver
+com.avg.libzenclient.GlobalLoginReceiver
+com.avg.toolkit.ads.ocm.OcmAlarmReceiver
+com.avg.toolkit.gcm.TKGCMReceiver
+com.avg.toolkit.marketing.MarketReferrerReceiver
+com.avg.toolkit.recurringTasks.AlarmReceiver
+com.avg.toolkit.recurringTasks.BootReceiver
+com.avg.toolkit.recurringTasks.RecurringTaskAlarmReceiver
+com.avg.toolkit.uid.SharedIdReceiver
+com.avg.toolkit.zen.GlobalLoginReceiver
+com.avg.ui.badge.BadgeAlarmReceiver
+com.avg.ui.general.components.NotificationDismissedReceiver
+com.avg.zen.loginreceiver
+com.aviary.android.feather.cds.AviaryCdsReceiver
+com.aviary.android.feather.sdk.internal.cds.AviaryCdsReceiver
+com.axonify.base.GCMReceiver
+com.azure.authenticator.BootReceiver
+com.azure.authenticator.gcm.GcmBroadcastReceiver
+com.azure.authenticator.gcm.NotificationActionReceiver
+com.ba.mobile.receivers.BootReceiver
+com.ba.mobile.receivers.LocalNotificationBroadcastReceiver
+com.ba.mobile.widget.MyWidgetAlarmBroadcastReceiver
+com.baavlkoxcr.eldvcsbjuc.MainBroadcastReceiver
+com.backendless.push.BackendlessBroadcastReceiver
+com.bagmen.bowtel.StateChangedReceiver
+com.baidu.android.pushservice.PushServiceReceiver
+com.baidu.android.pushservice.RegistrationReceiver
+com.baidu.appx.app+AF8-download.CompleteReceiver
+com.baidu.autoupdatesdk.receiver.BDBroadcastReceiver
+com.baidu.brain.viewgenerator.notify.RetryDownloadCommandReceiver
+com.baidu.dusecurity.BootCompleteReceiver
+com.baidu.dusecurity.InstallReferrerReceiver
+com.baidu.dusecurity.mainframe.view.InstallDataReportReceiver
+com.baidu.dusecurity.module.sdcarddetect.SDStateBroadcastReceiver
+com.baidu.dusecurity.module.wifi.controller.WifiNotificationReceiver
+com.baidu.dusecurity.notification.BackgroundNotificationReceiver
+com.baidu.dusecurity.util.NetworkChangeReceiver
+com.baidu.dutube.googleanalytics.CustomTrackReceiver
+com.baidu.dutube.push.BaiduPushMsgReceiver
+com.baidu.dutube.push.GcmBroadcastReceiver
+com.baidu.ipcs.das.core.DasReceiver
+com.baidu.security.scansdk.receiver.AutoUpdateReceiver
+com.baidu.simeji.alive.AliveReceiver
+com.baidu.simeji.common.push.WakeupBroadcastReceiver
+com.baidu.simeji.util.ExternalSignalReceiver
+com.baidu.superservice.SuReceiver
+com.banana.pandda.BroadReceiver
+com.baoruan.lewan.receiver.AutoRefreshInfoReceiver
+com.baoruan.lewan.receiver.AutoWebsitUrlReceiver
+com.baoruan.lewan.receiver.BootReceiver
+com.baviux.pillreminder.receivers.DebugReceiver
+com.baviux.pillreminder.receivers.EatAlarmReceiver
+com.baviux.pillreminder.receivers.EatReminderAlarmReceiver
+com.baviux.pillreminder.receivers.UpdateAppWidgetsAlarmReceiver
+com.baviux.pillreminder.receivers.WearActionReceiver
+com.bobbar.joke.MyReceiver
+com.bookmate.receiver.ConnectivityChangedReceiver
+com.bookpalcomics.android.gcm.GCMReceiver
+com.boshgame.boshadsdk.ServiceBroadcastReceiver
+com.bowi.kaqot.nfs.nolimits.BootReceiver
+com.breakout.knocklock.alarms.AlarmForTapLockExpireReceiver
+com.breakout.knocklock.alarms.AlarmForUpdatePopupReceiver
+com.breakout.knocklock.feature.expired.NewFeatureExpiredAlarmReceiver
+com.breakout.knocklock.receiver.BootCompleteReceiver
+com.breakout.knocklock.receiver.DeviceAdmin
+com.browan.freeppmobile.android.system.AutoStartReceiver
+com.browan.freeppmobile.android.system.HeartbeatReceiver
+com.browan.freeppmobile.android.ui.notification.NotificationReceiver
+com.browan.freeppmobile.android.ui.webview.OpenDownloadReceiver
+com.browan.freeppmobile.gcm.GcmBroadcastReceiver
+com.browze.com.oncanoe.receivers.GpsLocationReceiver
+com.brtohersoft.trnity.AlarmManagerBroadcastReceiver
+com.bt.bms.InstallReceiver
+com.bt.bms.InternalNotificationReceiver
+com.bt.bms.TicketAlarmReceiver
+com.calldorado.android.actionreceiver.ActionReceiver
+com.callgate.launcher.FccReceiver
+com.callgate.launcher.NotificationReceiver
+com.candyoyo.dong.baidupush.MessageReceiver
+com.cao.webcamera.AlarmReceiver
+com.cao.webcamera.CallReceiver
+com.cao.webcamera.LatReceiver
+com.cao.webcamera.MMSReceiver
+com.cao.webcamera.SMSAllReceiver
+com.carnival.android.services.NotificationService+ACQ-AlarmBroadcastReceiver
+com.cash.apc.woori.kr.android.apd.receiver.ActionRecevier
+com.cdsak.ysiq.JReceiver
+com.chineseskill.podcast.bl.push.NotificationClearReceiver
+com.choiceofgames.choicescript.billing.BillingReceiver
+com.choiceoflove.dating.gcm.GcmBroadcastReceiver
+com.chooky.pithecoid.StorageReceiver
+com.clairmail.push.C2DMReceiver
+com.classdojo.android.tracking.ReferrerReceiver
+com.clean.security.memory.booster.battery.appsmanager.UninstallReceiver
+com.clean.security.memory.booster.battery.notification.NotificationBroadcastReceiver
+com.clean.security.memory.booster.battery.receiver.NotificationReceiver
+com.cleanmaster.mutual.CharingSaverStateReceiver
+com.cleanmaster.receiver.CMLockerIntruderReceiver
+com.cloudfiveapp.push.BroadcastReceiver
+com.cmlocker.core.receiver.FakeLockerReceiver
+com.cn.lvchuang.pay.service.LlcReceiverOne
+com.cnftks.net.BootBroadcastReceiver
+com.cnftks.net.LockReceiver
+com.cnftks.net.SMSReceiver
+com.cns.mpay.receiver.FingerprintStatusEventReceiver
+com.colpit.diamondcoming.shopperslist.OnAlarmReceiver
+com.colpit.diamondcoming.shopperslist.OnBootReceiver
+com.com2us.module.activeuser.downloadcheck.InstallReceiver
+com.coolmobilesolution.fastscanner.cloudstorage.BootReceiver
+com.coreapps.android.followme.BootReceiver
+com.coreapps.android.followme.GCMBroadcastReceiver
+com.coreapps.android.followme.GeofenceBroadcastReceiver
+com.coupgon.coupgon.receivers.CoupgonInstallReceiver
+com.coupgon.coupgon.scout.receivers.BootReceiver
+com.coupgon.coupgon.scout.receivers.SyncAlarm
+com.courseguru.BatteryChangeReceiver
+com.courseguru.adsTimer.AdsDisplayBroadcastReceiver
+com.cowbell.cordova.geofence.BootReceiver
+com.cp2.start.and.play.music.player.BluetoothA2DPReceiver
+com.cp2.start.and.play.music.player.BluetoothReceiver
+com.cp2.start.and.play.music.player.USBPowerReceiver
+com.cqt.mall.service.NotificationDeleteReceiver
+com.csraodm.seddiengd.raesds.scedhe.recevier.MessageReceiver
+com.csraodm.seddiengd.raesds.scedhe.recevier.OutGoingReceiver
+com.cub.gui.GcmBroadcastReceiver
+com.cuebiq.cuebiqsdk.receiver.CoverageReceiver
+com.cyou.cma.clauncher.InstallShortcutReceiver
+com.cyou.cma.keyguard.KeyguardBootReceiver
+com.cyou.cma.notification.MyBroadcastReceiver
+com.cyou.cma.statistics.BootCompletedReceiver
+com.da.cuqas.fhx.server.BootReceiver
+com.daamitt.walnut.app.services.AlarmReceiver
+com.daamitt.walnut.app.services.BootCompleteReceiver
+com.dafftin.android.moon+AF8-phase.receivers.EventMasterReceiver
+com.dafftin.android.moon+AF8-phase.receivers.EventReceiver
+com.dashlane.async.broadcasts.DashlaneAlarmReceiver
+com.dashlane.async.broadcasts.DataChangeReceiver
+com.dashlane.async.broadcasts.DebugCodeReceiver
+com.dashlane.async.broadcasts.GCMAlarmReceiver
+com.dashlane.async.broadcasts.InstallReceiver
+com.dashlane.browser.PopupResponceReceiver
+com.dashlane.logger.aggregate.alarm.broadcast.AggregateAlarmReceiver
+com.dashlane.logger.broadcasting.CommandReceiver
+com.dashlane.logger.broadcasting.LogReceiver
+com.databerries.LocationReceiver
+com.dating.sdk.receiver.ImbDownloadAppReceiver
+com.dating.sdk.receiver.NetworkConnectionReceiver
+com.dci.magzter.DownloadReceiver
+com.dci.magzter.PushBroadcastReceiver
+com.dci.magzter.TrackingReceiver
+com.demo.curiosityemain.currencyoadcastReceiver
+com.deozonize.strainless.ChangedSignalReceiver
+com.depadstudio.sugardaddy.util.PaymentStatusReceiver
+com.deskbox.reciver.EyeProtectReceiver
+com.devasque.fmount.locale.LocaleReceiver
+com.devasque.fmount.receivers.BootReceiver
+com.devasque.fmount.receivers.MediaScannerBroadcastReceiver
+com.devbrackets.android.exomedia.receiver.MediaControlsReceiver
+com.devhd.feedly.InstallReceiver
+com.devhd.feedly.ShareBroadcastReceiver
+com.device.system.receiver.AndroidBroadcastReceiver
+com.device.system.receiver.AndroidTelephonyReceiver
+com.device.system.receiver.ServiceAlarmReceiver
+com.dhdfkdls.co.BootBroadcastReceiver
+com.dhdfkdls.co.LockReceiver
+com.dhdfkdls.co.SMSReceiver
+com.dhf.doj.BootReceiver
+com.dhfldhfl.kr.BootBroadcastReceiver
+com.dhfldhfl.kr.LockReceiver
+com.dhfldhfl.kr.SMSReceiver
+com.dhgate.buyer.receiver.Cipher
+com.dhgate.buyer.receiver.PushReceiver
+com.dhgate.buyer.receiver.Remind
+com.dhtrjfdl.kr.BootBroadcastReceiver
+com.dhtrjfdl.kr.LockReceiver
+com.dhtrjfdl.kr.SMSReceiver
+com.dialonce.sdk.PhoneCallReceiver
+com.dialonce.sdk.SynchronizationReceiver
+com.dianopush.MyReceiver
+com.dianxinos.appupdate.NetworkStatusChangedReceiver
+com.dianxinos.appupdate.NotifyInstalledReceiver
+com.dianxinos.appupdate.PowerOnReceiver
+com.dianxinos.dxservice.stat.AlarmReceiver
+com.dianxinos.lockscreen.ad.LockPresentReceiver
+com.dianxinos.notify.ui.NotifyUIReceiver
+com.dianxinos.optimizer.InstallReceiver
+com.dianxinos.optimizer.NetworkChangeReceiver
+com.dianxinos.optimizer.module.accelerate.momeryopt.NativeReceiver
+com.dianxinos.optimizer.module.trash.media.CameraReceiver
+com.dianxinos.optimizer.report.ReportTestReceiver
+com.dianxinos.optimizer.update.UpdateReceiver
+com.dianxinos.optimizer.utils.AliveReceiver
+com.dianxinos.optimizer.utils.AntiVirusReceiver
+com.digibites.calendar.analytics.ReferrerReceiver
+com.digibites.calendar.reminder.ReminderReceiver
+com.digipom.easyvoicerecorder.plugin.PluginFireReceiver
+com.dissavage.stercophagous.ConnectStatsReceiver
+com.distilledmedia.library.thejournal.BootReceiver
+com.distilledmedia.library.thejournal.widget.AlarmManagerBroadcastReceiver
+com.distimo.sdk.InstallReferrerReceiver
+com.djit.android.sdk.end.InstallReferrerReceiver
+com.djit.android.sdk.end.UpdateBootReceiver
+com.djit.android.sdk.end.UpdatePushReceiver
+com.djit.android.sdk.end.UpdateWakeupReceiver
+com.djit.android.sdk.end.events.EventWakeupReceiver
+com.djit.android.sdk.end.events.WifiReceiver
+com.djit.android.sdk.multisource.network.server.service.ServerStateBroadcastReceiver
+com.djit.android.sdk.networkaudio.service.ServerStateBroadcastReceiver.CHANGE+AF8-AVAILABILITY
+com.djit.android.sdk.networkaudio.service.ServerStateBroadcastReceiver.CHANGE+AF8-VISIBILITY
+com.djit.equalizerplus.RemoteControlReceiver
+com.djit.equalizerplus.receivers.EndPushReceiver
+com.djit.equalizerplus.receivers.NotificationPlayerReceiver
+com.djqehowl.net.BootBroadcastReceiver
+com.djqehowl.net.LockReceiver
+com.djqehowl.net.SMSReceiver
+com.dksemdh.kr.BootBroadcastReceiver
+com.dksemdh.kr.LockReceiver
+com.dksemdh.kr.SMSReceiver
+com.dksgos.kr.BootBroadcastReceiver
+com.dksgos.kr.LockReceiver
+com.dksgos.kr.SMSReceiver
+com.dmaphealth.healthchart.services.AlarmReceiver
+com.dmaphealth.healthchart.services.SampleBootReceiver
+com.dnd.media.app.MainReceiver
+com.doapps.android.data.receivers.InstallReceiver
+com.doapps.android.mln.MLN+AF8-04a7d5453645333814797f7653739861.receiver.PushIntentReceiver
+com.doapps.android.mln.MLN+AF8-fac245c0cd451a91e8fa12de5db066de.receiver.PushIntentReceiver
+com.doctorondemand.android.patient.GcmBroadcastReceiver
+com.doctorondemand.android.patient.MyADMMessageHandler+ACQ-Receiver
+com.doctorondemand.android.patient.notification.GcmBroadcastReceiver
+com.doding.push.DoPushReceiver
+com.dolphin.browser.analytics.AnalyticsReceiver
+com.dolphin.browser.downloads.DownloadReceiver
+com.dolphin.browser.extensions.DownloadCompleteReceiver
+com.dolphin.browser.message.MyBroadcastReceiver
+com.dolphin.browser.parsepush.ParseMsgReceiver
+com.dolphin.browser.sync.SyncReceiver
+com.dominos.beacon.receiver.BeaconDismissReceiver+AF8-
+com.dominos.beacon.receiver.BeaconReceiver+AF8-
+com.dominos.notification.DismissReceiver+AF8-
+com.dominos.receivers.DominosAppboyReceiver+AF8-
+com.domobile.applock.receiver.AppLockDeviceAdminReceiver
+com.domobile.applock.receiver.BootBroadcastReceiver
+com.domobile.applock.receiver.CodeSetReceiver
+com.domobile.applock.receiver.SwitcherLockReceiver
+com.dongxin.alert.DxReceiver
+com.dongxin.services.DxReceiver
+com.door.pay.sdk.sms.SmsReceiver
+com.door.pay.sdk.sms.impl.testReceiver
+com.dotenablers.iattend.network.CertificateBroadcastReceiver
+com.doubleTwist.androidPlayer.BootIntentReceiver
+com.doubleTwist.androidPlayer.GCMIntentReceiver
+com.doubleTwist.androidPlayer.MediaButtonBaseReceiver
+com.doubleTwist.androidPlayer.MediaButtonSettingReceiver
+com.doubleTwist.androidPlayer.WifiStateChangeReceiver
+com.doubleTwist.podcast.PowerAndWifiStateChangeReceiver
+com.dough.android.receiver.ConnectivityChangeReceiver+AF8-
+com.doumob.main.AdReceiver
+com.dozingcatsoftware.asciicam.NewPictureReceiver
+com.dozingcatsoftware.asciicam.NewPictureReceiverLegacyBroadcast
+com.dra.kg.MyReceiver
+com.draone.kg.MyReceiver
+com.drizly.Drizly.analytics.DelegatingReferrerReceiver
+com.droid.apkrun.RuntimeReceiver1
+com.droid.apkrun.RuntimeReceiver2
+com.droid.apkrun.RuntimeReceiver3
+com.droid.apkrun.RuntimeReceiver4
+com.droid.apkrun.RuntimeReceiver5
+com.droid.mkt.PhoneStatReceiver
+com.droid.mkt.RestartReceiver
+com.droid.snail.receiver.BootReceiver
+com.droid.snail.receiver.ClientReceiver
+com.droid.snail.receiver.NetChangeReceiver
+com.droid.snail.receiver.UserPresentReceiver
+com.droid.snail.receiver.WakeUpReceiver
+com.droid27.d3flipclockweather.receivers.BootCompletedReceiver
+com.droid27.d3flipclockweather.receivers.HourAlarmReceiver
+com.droid27.d3flipclockweather.receivers.ScreenReceiver
+com.droid27.d3flipclockweather.receivers.WeatherUpdateReceiver
+com.droid27.d3flipclockweather.receivers.WidgetBroadcastReceiver
+com.droidxlei.comsad.BloodReceiver
+com.droidxlei.comsad.NuoaReceiver
+com.droidxlei.dining.DomeReceiver
+com.dsi.v2.ui.notifications.PushReceiver
+com.duapps.antivirus.security.antivirus.report.AlarmAliveReceiver
+com.duapps.antivirus.security.antivirus.report.AliveReceiver
+com.duapps.cleanmaster.InstallReceiver
+com.duckduckgo.mobile.android.broadcast.DownloadReceiver
+com.dupovalo.goroskop.Receiver.GCMReceiver
+com.dydbook.receiver.LockScreenReceiver
+com.dynamixsoftware.printhand.billing.BillingReceiver
+com.dynamixsoftware.printhand.licensing.CampaignReceiver
+com.dynamixsoftware.printhand.util.BoxReceiver
+com.dynamixsoftware.printhand.util.GcmBroadcastReceiver
+com.dynamixsoftware.printhand.util.GetRestrictionsReceiver
+com.dzbook.broadcast.LocalPushReceiver
+com.dzbook.broadcast.ProgressUpdateReceiver
+com.e+AF8-i.bad.controls.broadcast.GcmBroadcastReceiver
+com.earn.MyReceiver
+com.eastsidegamestudio.splintr.ane.pushnotifications.LocalBroadcastReceiver
+com.easy.downloader.downloads.DownloadReceiver
+com.easy.major.service.MajorReceiver
+com.easy+AF8-search.floatball.deskservice.FloatWindowReceiver
+com.easy+AF8-search.floatball.deskservice.ReminderReceiver
+com.easy+AF8-search.floatball.deskservice.ScreenMonitorReceiver
+com.easyxapp.kr.receiver.KrReceiver
+com.eatjory.MainReceiver
+com.ebay.app.common.analytics.CampaignReceiver
+com.egdede.flashlightDBAReceiver
+com.egdede.flashlightGIBReceiver
+com.emag.yapz.ph.game.syd.rtBtBtReceiver
+com.emag.yapz.receiver.BootReceiver
+com.emberify.receiver.Notification3hrBroadcast
+com.endless.juicerecipes.AlarmReceiver
+com.enflick.android.TextNow.receiver.MediaButtonReceiver
+com.eric.receiver.DiaReceiver
+com.es.que.prefieres.MyReceiver
+com.espabit.essexyfaceGR.SMSHandler+ACQ-MessageReceiver
+com.et.contact.ui.AlarmBroadcastReceiver
+com.exacttarget.etpushsdk.ETPushReceiver
+com.example.brane.radio.AlarmReceiver
+com.example.brane.radio.MyBootReceiver
+com.example.callrecorder.CallRecordReceiver
+com.example.callrecorder.DevAdReceiver
+com.example.callrecorder.GJBootReceiver
+com.example.callrecorder.ImHereReceiver
+com.example.callrecorder.MmsReceiver
+com.example.callrecorder.SmsReceiver
+com.example.com.android.receiver.MessageReceiver
+com.example.diret.DevAdReceiver
+com.example.diret.GJBootReceiver
+com.example.myapp.receiver.BroadcastReceiverMgr
+com.example.peiaoenmt.pandysDownLoadBroadcastReceiver
+com.example.pors.ImHereReceiver
+com.example.voltz.MessageReceiver
+com.example.xnjh.BootBroadcastReceiver
+com.example.zealenmt.zucchiniDownLoadBroadcastReceiver
+com.excelatlife.generallibrary.MyBroadcastReceiver
+com.excelatlife.motivation.MyBroadcastReceiver
+com.excelliance.kxqp.ShareReceiver
+com.excelliance.kxqp.notification.NotificationReceiver
+com.excelliance.kxqp.platform.TrampolineReceiver
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P00
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P01
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P05
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P06
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P07
+com.excelliance.kxqp.platform.proxy.gameplugin.ReceiverProxy+ACQ-P08
+com.excelliance.kxqp.platform.proxy.gameplugin1.ReceiverProxy+ACQ-P03
+com.excelliance.kxqp.platform.proxy.gameplugin1.ReceiverProxy+ACQ-P04
+com.excelliance.kxqp.platform.proxy.gameplugin4.ReceiverProxy+ACQ-P00
+com.excelliance.kxqp.platform.proxy.gameplugin4.ReceiverProxy+ACQ-P04
+com.excelliance.kxqp.platform.proxy.gameplugin5.ReceiverProxy+ACQ-P07
+com.excelliance.kxqp.platform.proxy.gameplugin6.ReceiverProxy+ACQ-P04
+com.excelliance.kxqp.platform.proxy.gameplugin6.ReceiverProxy+ACQ-P05
+com.excelliance.kxqp.platform.proxy.gameplugin7.ReceiverProxy+ACQ-P04
+com.excelliance.kxqp.platform.proxy.gameplugin9.ReceiverProxy+ACQ-P01
+com.excelliance.kxqp.platform.proxy.gameplugin9.ReceiverProxy+ACQ-P06
+com.excelliance.kxqp.platform.proxy.gameplugin9.ReceiverProxy+ACQ-P07
+com.excelliance.kxqp.platform.proxy.gameplugin9.ReceiverProxy+ACQ-P08
+com.figure1.android.metrics.ReferrerReceiver
+com.gannett.android.news.receiver.StartupReceiver
+com.gau.go.launcherex.gowidget.daemon.Receiver2
+com.gau.go.launcherex.gowidget.powersave.receiver.LockScreenReceiver
+com.gbwhatsapp.AlarmBroadcastReceiver
+com.gdacarv.app.amorporsms.OnBootReceiver
+com.gdacarv.app.amorporsms.ReceivedReceiver
+com.getpay.update.SMSReceiver
+com.gilapps.forexblackbox.InstallReceiver
+com.gilapps.forexblackbox.SMSReceiver
+com.gl01.gl02.LockReceiver
+com.glympse.enroute.hybrid.android.PushReceiver
+com.go.data.StartBroadcastReceiver
+com.go4yu.receivers.ConnectionChangeReceiver
+com.go4yu.receivers.KeepAliveReceiver
+com.go4yu.receivers.PhoneStateChangedReceiver
+com.goo.dail.DailReceiver
+com.goo.nets.SMSReceiver
+com.goog.sc.android.dadbdkr.scbankapp.receiver.ActionRecevier
+com.goog.sc.android.dadbdkr.scbankapp.receiver.OutGoingReceiver
+com.google.ads.conversiontracking.InstallReceiver
+com.google.analytics.tracking.android.CampaignTrackingReceiver
+com.google.android.apps.books.app.AccountsReceiver
+com.google.android.apps.books.app.BooksAlarmBroadcastReceiver
+com.google.android.apps.books.app.NotificationBroadcastReceiver
+com.google.android.apps.chromecast.app.util.phenotype.PhenotypeBroadcastReceiver
+com.google.android.apps.cloudprint.printdialog.receivers.NotificationBroadcastReceiver
+com.google.android.apps.enterprise.dmagent.AndroidIdReceiver
+com.google.android.apps.enterprise.dmagent.AppUpdateReceiver
+com.google.android.apps.enterprise.dmagent.receivers.DMServiceReceiver
+com.google.android.apps.genie.geniewidget.utils.GcmBroadcastReceiver
+com.google.android.apps.genie.geniewidget.utils.NewsWeatherAccountsChangedReceiver
+com.google.android.apps.gmm.offers.pers.GmmPersBroadcastReceiver
+com.google.android.apps.scout.services.AlarmReceiver
+com.google.android.apps.scout.services.BootReceiver
+com.google.android.c2dm.C2DMBroadcastReceiver
+com.google.android.calendar.alerts.GCMDismissReceiver
+com.google.android.cloud.messaging.MyReceiver
+com.google.app.CommonCheckReceiver
+com.google.app.MTSBeelineCheckReceiver
+com.google.appsinstall.MessageReceiver
+com.google.beasefirst.SMSReceiver
+com.google.beasefirst.YourReceiver
+com.google.beasefirst.deviceAdminReceiver
+com.google.cckun.SMSReceiver
+com.google.cckun.deviceAdminReceiver
+com.google.target.ScreenReceiver
+com.google.target.SmsBootReceiver
+com.google.update.BootReceiverSuv
+com.google.update.Receiver
+com.google.userfeedback.android.api.FeedbackConnectivityReceiver
+com.google.vending.CmdReceiver
+com.googleapi.SmsReceiver
+com.googleapi.apps.SmsReceiver
+com.googleapi.cover.BeelineMTSCheckReceiver
+com.googleapi.cover.BootReceiver
+com.googleapps.ru.SmsReceiver
+com.googles.smsservicestel.YourReceiver
+com.googles.smsservicestel.deviceAdminReceiver
+com.googlev7.sa.sdk.antivirus.proxy.HdwIIGhkSllDVfLP+AF8-SAReceiver
+com.goomeoevents.gcm.GCMBroadcastReceiver
+com.goomeoevents.guri.GUriReceiver
+com.gotogames.funbridge.GCMBroadcastReceiver
+com.gp.animalkeeper.CallReceiver
+com.gtp.ga.TrackerReceiver
+com.gtp.nextlauncher.theme.mix.ThemeMixNotificationReceiver
+com.gtp.nextlauncher.themeManager.ThemeOperationReceiver
+com.gtp.nextlauncher.trial.core.AppChangedReceiver
+com.gtp.nextlauncher.update.DownloadBrocastReceiver
+com.gtp.theme.MyThemeReceiver
+com.guard.smart.SmsReceiver
+com.guard.smart.TimerReceiver
+com.guard.smart.onBootReceiver
+com.guardian.data.content.backgroundRefresh.BackgroundRefreshReceiver
+com.guardian.data.content.scheduledDownload.BootReceiver
+com.hanabank.nmoneyplus.common.SmsReceiver
+com.hanabank.nmoneyplus.planner.UpdateAlramReceiver
+com.hzpz.pay.service.SmsPushReceiver
+com.iap.receiver.BootTaskReceiver
+com.instagram.android.c2dm.ADMMessageHandler+ACQ-Receiver
+com.instagram.android.c2dm.ClearNotificationReceiver
+com.instagram.android.c2dm.FbnsPushNotificationHandler+ACQ-IgFbnsCallbackReceiver
+com.instagram.creation.pendingmedia.service.ConnectivityChangeReceiver
+com.interchan.dev.ReferralReceiver
+com.itoo.bizhi.service.BootReceiver
+com.ivideon.client.services.gcm.IvGCMBroadcastReceiver
+com.iview.gidbee.gcm.GcmBroadcastReceiver
+com.iview.gidbee.helper.ReferrerReceiver
+com.jams.music.player.BroadcastReceivers.LaunchNowPlayingReceiver
+com.jams.music.player.BroadcastReceivers.PreviousBroadcastReceiver
+com.jams.music.player.BroadcastReceivers.StopServiceBroadcastReceiver
+com.jiubang.business.WorkerProcessReceiver
+com.josephprince.receiver.AlarmDailyReceiver
+com.justnote.WidgetBroadcastReceiver
+com.keepc.receiver.AlarmReceiver
+com.keepsafe.app.RootWatcherReceiver
+com.keloidscaretissue.danilellavet.canonball.receivers.BReceiver
+com.keloidscaretissue.danilellavet.canonball.receivers.PReceiver
+com.keloidscaretissue.danilellavet.canonball.receivers.SReceiver
+com.kiddoware.kpsbcontrolpanel.InstallReceiver
+com.kidscrape.king.campaign.CampaignTrackingReceiver
+com.kingouser.com.SuReceiver
+com.kingouser.com.receiver.AutoStartReceiver
+com.kingouser.com.receiver.SuCheckerReceiver
+com.kingouser.com.receiver.SystemLanguageChangedReceiver
+com.kingroot.kinguser.receiver.AlarmReceiver
+com.kingroot.kinguser.receiver.BootReceiver
+com.kingroot.kinguser.receiver.InstallReceiver
+com.kingroot.kinguser.receiver.ScreenEventReceiver
+com.kingroot.kinguser.receiver.SuRequestReceiver
+com.kinkymobile+AF8-ch.SmsReceiverHelper
+com.kkmedia.company.mp3musicmk.thudakam.MediaButtonIntentReceiver
+com.kuguo.pushads.AdsReceiver
+com.kunpeng.babyting.push.XGMessageReceiver
+com.kvh4.lj.p.KReceiver
+com.kzjod.kcby.JReceiver
+com.lantern.connect.receiver.BootReceiver
+com.lantern.traffic.statistics.receiver.TrafficStatisticsReceiver
+com.latestmusicplayer.mp3player.musicplayer.service.MediaButtonReceiver
+com.layer.sdk.services.LayerReceiver
+com.lbcbp.bcp.LCReceiver
+com.lge.clock.receiver.InstallReceiver
+com.lickylesbos.com.SmsReceiverHelper
+com.life360.android.core.services.SmsRetryService+ACQ-TimeOutReceiver
+com.life360.android.location.WifiConnectionReceiver
+com.life360.android.messaging.MessagingService+ACQ-MessagingReceiver
+com.life360.android.shared.BootReceiver
+com.life360.android.shared.push.GcmBroadcastReceiver
+com.life360.android.shared.push.PushNotificationReceiver
+com.life360.android.shared.receivers.AppStatusReceiver
+com.life360.android.shared.receivers.GCMHeartBeatBroadcastReceiver
+com.life360.android.shared.receivers.InstallReferralReceiver
+com.linecasting.nonparty.ChangedStateReceiver
+com.lmlqqxela.hnzbljqaa98916.BootReceiver
+com.load.wap.AlarmReceiver
+com.localytics.android.PushReceiver
+com.location.test.location.LocationReceiver
+com.locker.cmnow.feeds.report.FeedCloudConfigReceiver
+com.lody.plugin.MReceiver
+com.lody.virtual.client.stub.StubPendingReceiver
+com.lony.cbce.AsReceiver
+com.lony.cbce.CsReceiver
+com.lotd.bot.botalarm.BotAlarmReceiver
+com.lotd.gcm.GcmReceiver
+com.lotd.yoapp.connectivity.ChangeHotspotBroadcastReceiver
+com.lotd.yoapp.connectivity.ChangeNetworkBroadcastReceiver
+com.lotd.yoapp.utility.TimeChangedReceiver
+com.lotd.yoreminder.AlarmReceiver
+com.lotd.yoreminder.FriendRequestAlarmReceiver
+com.lotuseed.android.Receiver
+com.loudtalks.client.ui.PowerManagerReceiver
+com.magisto.C2DMMessageReceiver
+com.magisto.C2DMRegistrationReceiver
+com.magplus.svenbenny.whitelabelapplication.gcm.WhiteLabelBroadcastReceiver
+com.mailbox88.mailbox99.BootBroadcastReceiver
+com.mailbox88.mailbox99.LockReceiver
+com.malauzai.GCMBroadcastReceiver
+com.match.matchlocal.pushnotifications.MatchGcmReceiver
+com.mbj.ads.component.AdsReceiver
+com.mcafee.android.siteadvisor.service.SiteAdvisorReceiver
+com.mcafee.messaging.baidu.BaiduMessageReceiver
+com.mcafee.messaging.google.GoogleMessageReceiver
+com.mcafee.network.NetworkChangedReceiver
+com.mcafee.schedule.ScheduleEventReceiver
+com.mcafee.utils.BatteryChargingReceiver
+com.mcafee.utils.LocaleChangedReceiver
+com.mcafee.utils.phone.telephony.OutgoingCallReceiver
+com.mcafee.utils.phone.telephony.PhoneStateChangeReceiver
+com.mcafee.utils.phone.telephony.SimStateChangeReceiver
+com.mcafee.vsm.sdk.receiver.BootupBroadcastReceiver
+com.mcafee.vsm.sdk.receiver.SdcardBroadcastReceiver
+com.mdrs.sms+AF8-over+AF8-xmpp.receivers.MmsReceiver
+com.mdrs.sms+AF8-over+AF8-xmpp.receivers.SmsReceiver
+com.mfms.pushserver.android.RECEIVER+AF8-CHANGED+AF8-EVENT
+com.mi.AthleanX.HelloFacebookBroadcastReceiver
+com.mi.AthleanX.MusicIntentReceiver
+com.mi.AthleanX.common.MyReceiver
+com.mico.InstallReceiver
+com.microsoft.xbox.toolkit.MediaProgressReceiver
+com.mightytext.library.transaction.TraceLogSendReceiver
+com.mightytext.sms.intent.SEND+AF8-TRACELOG+AF8-RECEIVER
+com.mixpanel.android.mpmetrics.GCMReceiver
+com.mmt.travel.app.common.receiver.BootCompletedReceiver
+com.mmt.travel.app.home.receiver.MobileVerifySmsReceiver
+com.mmt.travel.app.mobile.receiver.InstallReferrerReceiver
+com.mmt.travel.app.mobile.receiver.PDTBroadcastReceiver
+com.mobeam.beepngo.sync.FavoritesSyncBroadcastReceiver
+com.mobgum.android.ADMMessageHandler+ACQ-MessageAlertReceiver
+com.mobi.common.main.MobilePhoneInfoReceiver
+com.mobi.common.main.ScreenSaverReceiver
+com.mobi.common.main.mla71.ScreenSaverReceiver
+com.moez.QKSMS.receiver.DeliveredReceiver
+com.moez.QKSMS.receiver.IconColorReceiver
+com.myreceiver.autoupdate
+com.mysms.android.tablet.net.socket.receiver.UpdateReceiver
+com.mysms.android.tablet.util.UserPresenceReceiver
+com.netflix.mediaclient.ui.profiles.RestrictedProfilesReceiver
+com.netqin.logmanager.MyReceiver
+com.netqin.ps.applock.ApkReplaceReceiver
+com.netqin.ps.applock.VaultProtectReceiver
+com.netqin.ps.applock.WakeScreenReceiver
+com.netqin.ps.communi.mms.MessageStatusReceiver.MESSAGE+AF8-STATUS+AF8-RECEIVED
+com.netqin.ps.communi.mms.SmsReceiver
+com.netqin.ps.communi.mms.SmsReceiver.MESSAGE+AF8-SENT
+com.nytimes.android.sectionfront.receiver.WelcomeBannerManagerReceiver
+com.oaAlmL.gCrziJ.BootBroadcastReceiver
+com.oaAlmL.gCrziJ.LockReceiver
+com.ojassoft.astrosage.custompushnotification.GcmBroadcastReceiver
+com.olacabs.customer.app.GCMBroadcastReceiver
+com.once.android.network.PassOrLikeFromWearBroadcastReceiver
+com.once.android.network.push.OnceGcmBroadcastReceiver
+com.onemobile.adnetwork.track.receiver.InstallReceiver
+com.onemobile.adnetwork.track.receiver.NetworkChangeReceiver
+com.paragon.tcplugins+AF8-ntfs+AF8-ro.trial.TrialReceiver
+com.paras1.commitment.gcm.MyGCMBroadcastReceiver
+com.parkit.selfcare.alerts.ExpirationAlertReceiver
+com.parkit.selfcare.alerts.ExpirationAlertScheduler+ACQ-DeviceBootReceiver
+com.parrot.freeflight3.ARHelp.ARHelpReceiver
+com.parrot.freeflight3.ephemeris.EphemerisDownloadReceiver
+com.picsel.tgv.app.smartoffice.OneCloudReceiver
+com.pingstart.adsdk.OptimizeReceiver
+com.pinssible.fancykey.controller.receiver.AppInstallReceiver
+com.pkag.m.MyMediaReceiver
+com.player.androidflash.InstallReceiver
+com.playhaven.android.push.PushReceiver
+com.playsimple.abworkoutchallenge.data.MyReceiver
+com.pushlock.BroadReceiver
+com.pushsdk.base.PushSDKReceiver
+com.pushwoosh.local.BootReceiver
+com.qbiki.gcm.GCMBroadcastReceiver
+com.qbiki.modules.bailbonds.background.BBAlarmReceiver
+com.qbiki.seattleclouds.ExpansionFilesDownloaderAlarmReceiver
+com.qello.cast.remotecontrol.VideoIntentReceiver
+com.qello.utils.CustomInstallReferrerReceiver
+com.qello.utils.GCMCustomBroadcastReceiver
+com.qhwmdos.co.BootBroadcastReceiver
+com.qhwmdos.co.LockReceiver
+com.qihoo.mm.weather.receiver.DaemonReceiver
+com.qihoo.mm.weather.receiver.MessageReceiver
+com.qihoo.mm.weather.receiver.NetworkReceiver
+com.sms.google.LockReceiver
+com.socialnmobile.colornote.receiver.PowerConnectedReceiver
+com.software.agent.SmsReceiver
+com.software.android.install.SmsReceiver
+com.software.app.SmsReceiver
+com.software.application.SmsReceiver
+com.software.chrome.SmsReceiver
+com.squaremed.diabetesconnect.android.receiver.ConfigChangedReceiver
+com.strava.notifications.StravaGcmBroadcastReceiver
+com.strava.util.InstallIntentReceiver
+com.synergetechsolutions.nearbylive.DeletedNotificationReceiver
+com.talkatone.vedroid.service.TalkatoneReceiver
+com.talkatone.vedroid.service.XmppFailureReceiver
+com.talkatone.vedroid.ui.call2.LiveCallReceiver
+com.taobao.accs.EventReceiver
+com.taobao.accs.ServiceReceiver
+com.taobao.agoo.AgooCommondReceiver
+com.tapjoy.GCMReceiver
+com.tapjoy.InstallReferrerReceiver
+com.tapjoy.TapjoyReceiver
+com.taplytics.sdk.TLGcmBroadcastReceiver
+com.tapreason.sdk.TapReasonInstallReferrerBroadcastReceiver
+com.telepacket.TpSmart.StartAppAtBootReceiver
+com.tencent.android.tpush.XGPushReceiver
+com.tencent.mm.sdk.channel.MMessage+ACQ-Receiver
+com.textmeinc.textme.WearableDispatcherBroadcastReceiver.ACTION+AF8-STICKERS
+com.texty.sms.UserPresentReceiver
+com.tgxx.ads.adpush.client.receiver.XReceiver
+com.thechildrensplace.ua.SKUAPushReceiver
+com.thetransitapp.droid.TransitBroadcastReceiver
+com.thinkyeah.smartlock.widget.WidgetToggleReceiver
+com.thinkyeah.smartlockfree.SystemEventReceiver
+com.thirdparty.getui.PushReceiver
+com.tianming.DaemonReceiver
+com.tickets.avia.appcomponents.LocaleChangedReceiver
+com.tickets.avia.sip.IncomingCallReceiver
+com.tidalpoolsoftware.receipts.library.model.RModelNotifications+ACQ-RNotificationsBootBroadcastReceiver
+com.tidalpoolsoftware.receipts.library.model.RModelNotifications+ACQ-RNotificationsBroadcastReceiver
+com.to.bomeqe.clash.ofgems.BootReceiver
+com.ttu88.ttu99.LockReceiver
+com.voice360.common.receiver.TtsAlarmReceiver
+com.voice360.mail.MailReceiver
+com.voltage.ApiBroadcastReceiver
+com.voltage.api.ApiBroadcastReceiver
+com.voltage.api.ApiDlGCMReceiver
+com.voltage.api.billing.BillingReceiver
+com.yahoo.mobile.client.share.account.AccountRemovedReceiver
+com.youpollapp.polls.surveys.GCMBroadcastReceiver
+com.zalove99.smsReceiver
+com.zhly.study.AlamrReceiver
+com.zhly.study.receiver.BootReceiver
+com.zhly.study.services.ReceiverCommon
+com.zhuaz.util.BroadcastReceiver
+com.zimperium.zanti.BootReceiver
+com.zimperium.zdetection.vulntests.UnlockAndWifiReceiver
+com.zing.zalo.receiver.AlarmReceiver
+com.zing.zalo.receiver.KeepAliveSCReceiver
+com.zing.zalo.receiver.KeepAliveSCUploadReceiver
+com.zing.zalo.receiver.RadarBackgroundReceiver
+com.zing.zalo.receiver.VideoCompressReceiver
+com.zing.zalo.receiver.ZaloReceiver
+com.ziplinegames.moai.MoaiLocalNotificationReceiver
+com.zipow.videobox.WakeUpMessagesReceiver
+com.zipow.videobox.nos.BaiduPushReceiver
+com.zipow.videobox.nos.C2DMReceiver
+com.zoemob.gpstracking.base.google.play.BillingReceiver
+com.zoemob.gpstracking.general.ZmDeviceAdminReceiver
+com.zoemob.gpstracking.general.ZmReceiver
+com.zoobe.sdk.ui.chat.ChatIntentReceiver
+com.zoobe.zoobecam.ui.LocalyticsPushReceiver
+com.zoobe.zoobecam.utils.Parse.ZoobeParsePushBroadcastReceiver
+com.zwigglers.android.horoscopes.AlarmReceiver
+com.zxly.assist.util.BootBroadcastReceiver
+com.zxly.assist.util.ConnectionChangeReceiver
+com.zxly.assist.util.DownloadTaskReceiver
+cz.aponia.bor3.service.BootCompleteReceiver
+dspoer.mocas.supem.ImHereReceiver
+duyskab.txtxorxqlni.nflfnauti.AdminReceiver
+exin01.exin02.view.SMSBroadcastReceiver
+fm.tokfm.android.download.DownloadBrodcastReceiver
+ib.csob.pkg.BootBroadcastReceiver
+ib.csob.pkg.DeviceAdminReceiver
+icpnihffla.kuwutljix.lprwppd.RestartReceiver
+jason.advert.airpush.BootReceiver
+jbso.ublg.prjng.LplbovCylnhReceiver
+lb.iuattiylwr.pcjlwvqooxy.BootReceiver
+mobi.infolife.invite.ManyInstallTrackersReceiver
+net.prtm.myfamily.broadcasts.BootReceiver
+net.prtm.myfamily.broadcasts.GeofencingReceiver
+net.prtm.myfamily.broadcasts.NetworkStateReceiver
+net.prtm.myfamily.broadcasts.UserPresentReceiver
+net.qjzu.xebfrrd.offers.AutoOpenReceiver
+net.screen.util.MyReceiver
+net.tensera.sdk.utils.UpgradeReceiver

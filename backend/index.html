@@ -29,10 +29,10 @@
     // 1. Định nghĩa map từ số nhãn sang tên lớp
     const labelMap = {
       1: 'Adware',
-      2: 'Banking',
+      2: 'Benign',
       3: 'SMS_MALWARE',
       4: 'Riskware',
-      5: 'Benign'
+      5: 'Banking'
     };
 
     const frm = document.getElementById('frm'),
@@ -52,7 +52,7 @@
       data.append('apk', f.files[0]);
 
       try {
-        const res = await fetch('http://localhost:8000/predict/', {
+        const res = await fetch('http://192.168.56.1:8000/predict/', {
           method: 'POST',
           body: data
         });

@@ -17,7 +17,7 @@ COPY syscall_unique.csv .
 # Bạn có thể bỏ 2 file dynamic nếu không dùng nữa,
 # Nếu model chỉ dùng đặc trưng tĩnh thì không cần:
 # COPY feature_vectors_syscalls_frequency_5_Cat.csv .
-# COPY feature_vectors_syscallsbinders_frequency_5_Cat.csv .
+COPY feature_vectors_syscallsbinders_frequency_5_Cat.csv .
 
 # Expose port và chạy uvicorn
 EXPOSE 8000
